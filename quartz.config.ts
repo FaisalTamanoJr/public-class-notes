@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "faisals-notebook.pages.dev/",
+    baseUrl: "faisaltamanojr.github.io/public-class-notes/",
     ignorePatterns: ["Private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
