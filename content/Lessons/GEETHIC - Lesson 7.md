@@ -2,6 +2,7 @@
 draft: false
 title: Virtue Ethics - Distributive Justice and Care Ethics
 tags: [GEETHIC]
+date : 2024-07-18, 12:49
 ---
 
 ## Distributive Justice

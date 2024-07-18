@@ -2,6 +2,7 @@
 draft: false
 tags: [GEETHIC]
 title: Business Ethics
+date : 2024-07-18, 12:49
 ---
 
 [[business ethics|Business ethics]] is a study concerning the morality that involves business organizations and the activities of its workers.
