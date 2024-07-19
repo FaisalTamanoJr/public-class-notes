@@ -1,9 +1,9 @@
 ---
 draft: false
-title: Virtue Ethics - Aristotelian, Confucian, and Buddhist Ethics
 tags: [GEETHIC]
+title: Virtue Ethics - Aristotelian, Confucian, and Buddhist Ethics
+date: 2024-07-18, 12:49
 aliases: [Aristotelian virtue ethics]
-date : 2024-07-18, 12:49
 ---
 
 ## Aristotelian Ethics

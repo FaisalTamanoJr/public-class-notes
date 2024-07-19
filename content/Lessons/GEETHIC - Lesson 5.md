@@ -1,8 +1,8 @@
 ---
 draft: false
-title: Deontology - Categorical Imperative and Conditional Deontology
 tags: [GEETHIC]
-date : 2024-07-18, 12:49
+title: Deontology - Categorical Imperative and Conditional Deontology
+date: 2024-07-18, 12:49
 ---
 
 ## [[categorical imperative|Categorical imperative]]
