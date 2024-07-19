@@ -6,7 +6,7 @@ date: 2024-07-19, 09:57
 ---
 
 > [!Info]- Keywords
-[[least square regression]], [[linear regression]], [[maximum likelihood principle]], [[standard error of the estimate]], [[standard deviation]], [[total sum of the squares]], [[unexplained sum of the squares]], [[correlation coefficient]], [[coefficient of determination]], [[polynomial regression]]
+> [[least square regression]], [[linear regression]], [[maximum likelihood principle]], [[standard error of the estimate]], [[standard deviation]], [[total sum of the squares]], [[unexplained sum of the squares]], [[correlation coefficient]], [[coefficient of determination]], [[polynomial regression]]
 
 We can use the *least-square regression* to generate a curve that can sufficiently describe the relationship between $x$ and $y$. This method minimizes the discrepancy between the data points and curve produced; thus, it can be useful for objectively illustrating the general trend in data.
 
