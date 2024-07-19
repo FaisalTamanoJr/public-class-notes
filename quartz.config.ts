@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "faisaltamanojr.github.io/public-class-notes/",
+    baseUrl: "public-class-notes.pages.dev/",
     ignorePatterns: ["Private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
