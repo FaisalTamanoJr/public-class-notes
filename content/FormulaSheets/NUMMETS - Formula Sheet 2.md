@@ -3,6 +3,7 @@ draft: false
 tags: [NUMMETS]
 title: Iterative Non-Bracketing Methods
 date : 2024-07-18, 12:49
+date: 2024-07-19, 10:26
 ---
 
 ## Iterative Non-bracketing Methods
