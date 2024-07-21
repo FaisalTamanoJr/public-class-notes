@@ -6,7 +6,7 @@ date: 2024-07-19, 09:57
 ---
 
 > [!INFO]- Keywords
-> [[interpolation]], [[Newton's polynomials]], [[Lagrange's polynomials]], [[linear interpolation]], [[quadratic interpolation]]
+> [[interpolation]], [[Newtons polynomials]], [[Lagranges polynomials]], [[linear interpolation]], [[quadratic interpolation]]
 
 The general formula for an $n$th-order polynomial is
 

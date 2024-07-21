@@ -93,7 +93,7 @@ There are plenty of contributors to care ethics; two of the earlier contributors
 
 Gilligan asserts that men and women have dissimilar conceptions of morality: men’s conception focuses on resolving conflicting moral rights (since they tend to adopt an individualistic perspective of the self); and women’s conception underscores the importance of care in morality (since they typically adopt an interdependent and connected view of the self).
 
-Besides this, she also claims that men and women go through different stages of morality: men follows the stages according to [[Kohlberg's theory]]; whereas, women follow the stages specified by Gilligan.
+Besides this, she also claims that men and women go through different stages of morality: men follows the stages according to [[Kohlbergs theory]]; whereas, women follow the stages specified by Gilligan.
 
  The Female Stages of Moral Development (according to Gilligan):
 

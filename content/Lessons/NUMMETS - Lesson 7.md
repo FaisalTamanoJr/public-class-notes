@@ -6,7 +6,7 @@ date: 2024-07-19, 19:54
 ---
 
 > [!INFO]- Keywords
-> [[Newton-Cotes formulas]], [[trapezoidal rule]], [[Simpson's rule]], [[strip method]], [[closed forms of Newton-Cotes formulas]], [[open forms of Newton-Cotes formulas]]
+> [[Newton-Cotes formulas]], [[trapezoidal rule]], [[Simpsons rule]], [[strip method]], [[closed forms of Newton-Cotes formulas]], [[open forms of Newton-Cotes formulas]]
 
 ## Numerical Integration
 
