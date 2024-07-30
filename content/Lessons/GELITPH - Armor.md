@@ -11,7 +11,7 @@ The themes of this story are:
 
 1. The Drug War
 2. Rich vs. Poor
-3. Patriarchy and Gender Violence
+3. Toxic Masculinity
 
 One of the issues that the story talks about is the war against drugs—which may have happened on 2016 or just the past drug war in Davao. It says that the drug war is *one-sided* by challenging the stereotypes used against drug users. In addition, it combines this with its commentary on poverty.
 
@@ -33,7 +33,7 @@ Unlike the other contestants, Ronnie was not vulgar and carried himself with poi
 > came on the heels of a huge blow. Ronnie’s straight male lover, whom he’d
 > supported through college, had left to marry a girl he’d gotten pregnant.
 
-We can observe three important things in this quote: Ronnie lost his items, assistant, and salon; Ronnie lost his male lover to a woman. The former sheds light on Ronnie’s resilience for being able to persevere even after losing his source of income, while the latter depicts a symbol of gender violence—where it seems like homosexuality was rejected and looked down on for a heterosexual relationship. Nevertheless, Ronnie was still able to survive through his resourcefulness, as seen in this quote
+We can observe three important things in this quote: Ronnie lost his items, assistant, and salon; Ronnie lost his male lover to a woman. The former sheds light on Ronnie’s resilience for being able to persevere even after losing his source of income, while the latter depicts a symbol of toxic masculinity—where it seems like homosexuality was rejected and looked down on for a heterosexual relationship. Nevertheless, Ronnie was still able to survive through his resourcefulness, as seen in this quote
 
 > Ronnie had to close down the salon and move to a boarding house
 > in a compound used mainly as an automobile workshop. To pay rent, he
