@@ -71,7 +71,7 @@ This principle highlights the importance of acting rationally; instead of just f
 Besides this, Kant believed that moral judgments should be logically consistent and free from internal contradictions.
 
 > [!summary]
-Three important things to note in this principle according to Wall (2003):
+> Three important things to note in this principle according to Wall (2003):
 > 1. The categorical imperative does not provide us with a list of concrete rules, instead it provides us conditions that any rule must satisfy. In terms of form, all moral rules should be universalizable.
 > 2. Morality should be impartial, meaning that it treats everyone equally.
 > 3. No exceptions can be applied to the universalizable moral maxims (to prevent any contradictions).
