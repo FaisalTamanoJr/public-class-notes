@@ -33,7 +33,7 @@ P=\frac{1}{2}\mathrm{Re}[\boldsymbol{VI}^{\displaystyle*}]=\frac{1}{2}V_{m}I_{m}
 $$
 
 > [!INFO]
-> A resistive load ($R$) absorbs power at all times, while a reactive load ($L$ or $C$) absorbs none.
+> A resistive load ($R$) absorbs power at all times, while a reactive load ($L$ or $C$) absorbs no average power.
 
 ## Maximum Average Power Transfer
 
