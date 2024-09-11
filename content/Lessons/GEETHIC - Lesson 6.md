@@ -23,7 +23,7 @@ Unlike [[consequentialism]] and [[deontology]], [[virtue ethics]] is primarily c
 
 ### Concept of Virtue
 
-[[virtue|Virtues]] enables us to fulfill our proper function, and, as such, Aristotle maintains that they are necessary for us to live a happy life. He categorized virtues into two types: *intellectual virtues* and *moral virtues*. The former allows us to reasonably think, while the latter enables us to rationally manage our emotions and desires.
+[[virtue|Virtues]] enables us to fulfill our proper function, and, as such, Aristotle maintains that they are necessary for us to live a happy life. He categorized virtues into two types: [[intellectual virtues]] and [[moral virtues]]. The former allows us to reasonably think, while the latter enables us to rationally manage our emotions and desires.
 
 Virtues are either learned through experience or acquired through habits. For instance, *practical wisdom* (an intellectual virtue) is learned through experience. On the other hand, justice, prudence, fortitude, and temperance are developed through habitual actions. This implies that moral virtues are not inherent in our nature, but it is formed through constant practice. For this reason, Aristotle referred to things which are intrinsic to our nature (e.g., our ability to see and hear) as *endowments*—to distinguish them from virtues.
 
@@ -159,7 +159,7 @@ Confucius believed that humans are inherently social in nature—they will alway
 
 Each party in the relationship have equal responsibilities—which, when achieved, result in a harmonious relationship. More advanced relationships emerging from the basic types (e.g., student-teacher, doctor-patient) will also possess their own reciprocal duties. Furthermore, a society will only achieve harmony when all relationships within it are harmonious.
 
-The principle of *rectification of names* describes the duty to know and perform one’s responsibilities in a relationship—with *names* pertaining to one’s role in a particular relationship (such as, father, ruler, and etc.) Chaos arises when one fails to perform their duties, or performs duties inappropriate for their role (e.g., a leader acting like a businessman). It is important that names are clarified and match accordingly to what they signify. Negative social consequences arise when names are inaccurate or when usage of language is flawed: affairs would be problematic, inappropriate punishments would be carried out, and so on.
+The principle of *rectification of names* describes the duty to know and perform one’s responsibilities in a relationship—with *names* pertaining to one’s role in a particular relationship (such as, father, ruler, and etc.). Chaos arises when one fails to perform their duties, or performs duties inappropriate for their role (e.g., a leader acting like a businessman). It is important that names are clarified and match accordingly to what they signify. Negative social consequences arise when names are inaccurate or when usage of language is flawed: affairs would be problematic, inappropriate punishments would be carried out, and so on.
 
 Confucius identified key virtues needed in the five basic relations (so that they can perform their respective duties based on their *names*):
 
