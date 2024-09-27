@@ -5,6 +5,12 @@ title: Semiconductor Diode
 date: 2024-09-25, 11:40
 ---
 
+## Sources
+
+1. BASIC SOLID STATE PRINCIPLES (Lecture Slides)
+
+## Introduction
+
 A [[semiconductor diode]] is a two terminal electronic device formed by joining a p-type and an n-type semiconductor. The boundary between the n-type and p-type semiconductor is known as the *pn junction*. The terminal connected to the p-type is the *anode*, while the one connected to the n-type is the *cathode*. In a diode schematic, the **arrowhead** in represents the anode, while the **bar** represents the cathode.
 
 ## Operations of a Semiconductor Diode
