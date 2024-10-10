@@ -70,7 +70,7 @@ date: 2024-09-16, 22:02
 
 - A silicon crystal is considered an intrinsic semiconductor when there is no other atoms besides silicon atoms present in the material.
 	- In the same token, a germanium crystal is considered an intrinsic semiconductor when there is no other atoms besides germanium.
-- Although they share electrons, they can still produce free electrons and current when voltage/heat is applied; there, resulting in a conductor. This happens because the heat breaks the bonds formed.
+- Although they share electrons, they can still produce free electrons and current when voltage/heat is applied; thus, resulting in a conductor. This happens because the heat breaks the bonds formed.
 	- Conversely, low temperature will result in an insulator—due to the lack of free electrons to produce current.
 	- Separating an electron from its parent atom will leave a *hole* in the valence bond. It is represented as a positive sign because it **behaves like a proton** which attracts electrons from neighboring atoms.
 		- At times, an electron merges with the hole and becomes part of the covalent bond. This process is referred to as *recombination*. The amount of time for the electron to become free and then bounded back to an atom is referred to as a *lifetime*.
