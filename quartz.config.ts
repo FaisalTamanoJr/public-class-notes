@@ -16,6 +16,7 @@ const config: QuartzConfig = {
     baseUrl: "public-class-notes.pages.dev/",
     ignorePatterns: ["Private", "Templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
