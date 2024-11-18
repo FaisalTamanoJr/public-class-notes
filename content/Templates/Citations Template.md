@@ -1,4 +1,8 @@
-### My Obsidian Notes
+---
+date: 2024-11-18, 17:44
+---
+
+## My Obsidian Notes
 
 - News Websites
     1. Author Name, Publication, “[Article Title]()” - YYYY-MM-DD, [archived]() on YYYY-MM-DD
@@ -16,9 +20,9 @@
     1. Account name, “[Video Title]()” - YYYY-MM-DD, [archived]() on YYYY-MM-DD
         1. Associated Press, “[Gazans Protest To Bust Israeli Border Blockade](https://www.youtube.com/watch?v=6CxqQCfkoyA)” - 2018-05-11, archived on
 
-### APA
+## APA
 
-#### Web Articles
+### Web Articles
 
 1. Online articles
 	1. Last name, Initials. (Year, Month Day). Article title. _Publication Name_. URL

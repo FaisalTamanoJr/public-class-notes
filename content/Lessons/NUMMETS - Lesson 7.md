@@ -8,9 +8,7 @@ date: 2024-07-19, 19:54
 > [!INFO]- Keywords
 > [[Newton-Cotes formulas]], [[trapezoidal rule]], [[Simpsons rule]], [[strip method]], [[closed forms of Newton-Cotes formulas]], [[open forms of Newton-Cotes formulas]]
 
-## Numerical Integration
-
-### Introduction
+## Introduction
 
 *Newton-Cotes formulas* are numerical integration schemes that simplify a complicated function/data into a approximating function:
 
@@ -28,7 +26,7 @@ where $n$ is the polynomial’s order.
 
 We can use a piecewise function and straight lines to approximate the integral of a polynomial using a method known as the *strip method*. Besides this, we can two possible forms of Newton-Cotes formulas: closed and open. The *closed forms* knows the data points at the beginning and end of the limits of integration, whereas *open forms* have integration limits that extend beyond the data’s range.
 
-### Trapezoidal Rule
+## Trapezoidal Rule
 
 The *trapezoidal rule* is applicable in cases where the polynomial is in the first order. When given a first order polynomial like
 
@@ -50,7 +48,7 @@ $$
 
 All Newton-Cotes closed formulas follow this format but only differ with how the average height is formulated.
 
-#### Error
+### Error
 
 To estimate the local truncation error of a single application of the trapezoidal rule, we use
 
@@ -60,19 +58,19 @@ $$
 
 where $\xi$ lies somewhere in the interval from $a$ to $b$. The trapezoidal rule will be exact when the function being integrated is linear—error occurs when we have higher-order derivatives.
 
-#### Multiple Application
+### Multiple Application
 
 ![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
 
-##### Error
+#### Error
 
 ![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
 
-### Simpson’s Rule
+## Simpson’s Rule
 
 *Simpson’s rules* use higher-order polynomials to estimate an integral.
 
-#### Simpson’s 1/3 Rule
+### Simpson’s 1/3 Rule
 
 The Simpson’s rule is
 
@@ -104,11 +102,11 @@ where $\xi$ lies somewhere in the interval from $a$ to $b$.
 
 This rule is more accurate than the trapezoidal rule and its error is proportional to the fourth derivative. Although it is based on only three points, it is third-order accurate; thus, it yields exact results for cubic polynomials even though it is derived from a parabola.
 
-##### Multiple-Application
+#### Multiple-Application
 
 ![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
 
-#### Simpson’s 3/8 Rule
+### Simpson’s 3/8 Rule
 
 This rule can be fit to four points and integrated to get
 
@@ -134,6 +132,6 @@ In addition, it is more accurate than the 1/3 rule.
 
 This rule is preferred over the 1/3 one whenever the number of segments is odd.
 
-### Sources
+## Sources
 
 1. Numerical Methods for Engineers by Steven Chapra and Raymond Canale (Chapter 21)
