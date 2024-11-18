@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Periodization 
 tags: [GERPHIS]
 date: 2024-11-18, 17:44

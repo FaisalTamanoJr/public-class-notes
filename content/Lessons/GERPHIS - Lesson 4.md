@@ -1,4 +1,5 @@
 ---
+draft: false
 title: The Philippines Under Spain
 tags: [GERPHIS]
 date: 2024-11-18, 22:28
