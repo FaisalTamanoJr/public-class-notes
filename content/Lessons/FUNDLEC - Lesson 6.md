@@ -89,49 +89,17 @@ The *Eber’s Moll model* is used to visualize the behavior of a BJT transistor.
 
 ## Basic Transistor Formulas
 
-$$
-I_{E}=I_{C}+I_{B}
-$$
-
-$$
-I_{C}=I_{CMAJ}+I_{CO}
-$$
-
-$$
-\alpha_{AC}=\frac{\Delta I_{C}}{\Delta I_{E}}
-$$
-
-$$
-\alpha_{DC}=\frac{I_{C}}{I_{E}}
-$$
-
-$$
-I_{C} = \alpha I_{E} + I_{CO}
-$$
-
-$$
-I_{B}=\frac{(1-\alpha)}{\alpha}I_{C}
-$$
-
-$$
-I_{B}=(1-\alpha)I_{E}
-$$
-
-$$
-\beta=\frac{I_{C}}{I_{B}}
-$$
-
-$$
-I_{C}=\beta I_{B}
-$$
-
-$$
-\alpha=\frac{\beta}{\beta+1}
-$$
-
-$$
-\beta=\frac{\alpha}{1-\alpha}
-$$
+- $I_{E}=I_{C}+I_{B}$
+- $I_{C}=I_{CMAJ}+I_{CO}$
+- $\alpha_{AC}=\frac{\Delta I_{C}}{\Delta I_{E}}$
+- $\alpha_{DC}=\frac{I_{C}}{I_{E}}$
+- $I_{C} = \alpha I_{E} + I_{CO}$
+- $I_{B}=\frac{(1-\alpha)}{\alpha}I_{C}$
+- $I_{B}=(1-\alpha)I_{E}$
+- $\beta=\frac{I_{C}}{I_{B}}$
+- $I_{C}=\beta I_{B}$
+- $\alpha=\frac{\beta}{\beta+1}$
+- $\beta=\frac{\alpha}{1-\alpha}$
 
 ## BJT Amplifier Configuration
 
