@@ -104,3 +104,32 @@ The *Eber’s Moll model* is used to visualize the behavior of a BJT transistor.
 ## BJT Amplifier Configuration
 
 To identify the configuration (whether it is Common Base, Common Emitter, or Common Collector), check where the input source and output source is. The one without the voltage source indicates the common type (because of the ground).
+
+## DC Analysis
+
+Notation for operating currents and voltages of the BJT under DC conditions:
+
+| Parameter                    | Notation                    |
+| ---------------------------- | --------------------------- |
+| DC emitter current           | $I_{E}$ or $I_{EQ}$         |
+| DC collector current         | $I_{C}$ or $I_{CQ}$         |
+| DC base current              | $I_{B}$ or $I_{BQ}$         |
+| DC collector-emitter voltage | $V_{CE}$ or $V_{CEQ}$       |
+| DC base-emitter voltage      | $V_{BE}$ or $V_{BEQ}$       |
+| DC bias supply voltages      | $V_{CC}$, $V_{EE}$,$V_{BB}$ |
+
+- Before solving for the emitter or collector current, solve for the base current first.
+- The $Q$ in the subscript stands for quiescent.
+- The collector-emitter voltage should be solved for, while the base-emitter voltage should be given.
+- The bias supply voltages should be given.
+- All capacitors are replaced with an open circuit to isolate the AC signal.
+
+### Fixed Bias Circuit
+
+- This type of bias circuit configuration is contingent on only the base resistance $R_{B}$.
+- No $R_{E}$.
+- Is the simplex bias configuration.
+- Use KVL to solve for $I_{B}$
+- At saturation region, $V_{CE}$ is at minimum, while $I_{C}$ is at maximum
+- At cut-off region, there is no current at output ($I_{C}=0$) because the transistor is open. The base current and emitter current are also equal to 0.
+- Get equations from the outer loop equation when at saturated region or cut-off region.
