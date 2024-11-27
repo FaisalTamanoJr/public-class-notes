@@ -56,8 +56,6 @@ In a **forward bias region**, only a small amount of current passes through the 
 
 In the **reverse bias region**, $I_{S}$ remains approximately 0 until $V_{D}$ becomes equivalent to the *reverse breakdown voltage* $V_{BR}$ (or *peak reverse voltage*). The $I_{D}$ rapidly changes when $V_{D}$ goes beyond the *reverse breakdown region*
 
-![characteristic_curve.png](https://cdn1.byjus.com/wp-content/uploads/2022/05/V-I-Characteristics-of-P-N-junction-Diode.png)
-
 Normal diodes get damaged when they reach the reverse breakdown region due to the excessive current and overheating caused by either the *Avalanche breakdown* or the *Zener breakdown*.
 
 1. **Avalanche breakdown -** occurs when a minority carrier moves too quick across a junction (due to the $V_{BR}$) that it collides with an atom.

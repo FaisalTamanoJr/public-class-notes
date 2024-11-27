@@ -202,11 +202,11 @@ $$
 
 ## Nonlinear Regression
 
-![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
+TODO
 
 ### Gauss-Newton Method
 
-![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
+TODO
 
 ## Sources
 

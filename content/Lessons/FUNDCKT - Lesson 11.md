@@ -29,13 +29,9 @@ Three-phase voltages are usually generated using three-phase AC generators (or a
 2. stationary winding (or *stator*), which surrounds the rotor; and
 3. three separate windings (or coils) with terminals $a-a'$, $b-b'$, $c-c'$, which are $120^{\circ}$ apart around the stator.
 
-![three-phase ac generator|600](https://web.archive.org/web/20231215144511if_/https://electrical-engineering-portal.com/wp-content/uploads/2019/06/generating-3-phase-voltages.gif)
-
 The generator generate voltages when the rotor rotates and its magnetic field cuts the flux from the three coils. These voltages have equal magnitude but are out of phase by $120^{\circ}$. In addition, each phase can be a single-phase generator; hence, three-phase generators can provide power to both three-phase and single-phase loads.
 
 Three-phase systems oftentimes are made up of three voltage sources connected to loads with 3-4 wires (or transmission lines). It is equivalent to three single-phase systems, and has voltage sources that are either wye-connected or delta-connected.
-
-![common three phase systems|500](https://web.archive.org/web/20240805113037if_/https://1.bp.blogspot.com/-8J9FBd8LrOc/XlpbyVolmdI/AAAAAAAAFJg/RhzrW4Mak-ACvNohrOm5W78dVRdfxncpACEwYBhgL/s640/f3_balanced_three_phase_voltages.jpg)
 
 At the image above, particularly at (a), the voltages $\boldsymbol{V}_{an}$, $\boldsymbol{V}_{bn}$, and $\boldsymbol{V}_{cn}$ are called *phase voltages*. These are characterized as *balanced* only when they have the same amplitude and frequency, and are out of phase by $120^{\circ}$. As a result, balanced phase voltages have a total sum of 0.
 
@@ -50,8 +46,6 @@ At the image above, particularly at (a), the voltages $\boldsymbol{V}_{an}$, $\b
 The positive sequence occurs when the rotor rotates counter-clockwise, while the negative sequence occurs when it rotates in a clockwise direction. The *phase sequence* describes the time order in which the voltage reaches their peak. It is important to know the phase sequence to determine the rotation direction of the motor connected to the power source.
 
 Similar to three-phase voltages, three-phase load can also be either be wye-connected or delta-connected. If there are four wires instead of three, there will be a neutral line connected; however, this is impossible for a delta-connection.
-
-![three phase load|300](https://web.archive.org/web/20240805124428if_/https://1.bp.blogspot.com/-LqhcbYLHkWU/XlpdK_kpPLI/AAAAAAAAFKY/vHsxSLABftM94Bei-1CZpGpHFEmVgpOhwCLcBGAsYHQ/s1600/f5_balanced_three_phase_voltages.jpg)
 
 The load is considered balanced when all phase impedances have equal magnitude and are in phase.
 

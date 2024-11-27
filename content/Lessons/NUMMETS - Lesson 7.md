@@ -60,11 +60,11 @@ where $\xi$ lies somewhere in the interval from $a$ to $b$. The trapezoidal rule
 
 ### Multiple Application
 
-![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
+TODO
 
 #### Error
 
-![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
+TODO
 
 ## Simpson’s Rule
 
@@ -104,7 +104,7 @@ This rule is more accurate than the trapezoidal rule and its error is proportion
 
 #### Multiple-Application
 
-![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
+TODO
 
 ### Simpson’s 3/8 Rule
 

@@ -101,8 +101,6 @@ Marxists contend that **classes** are the primary actors controlling the world e
 2. a **semi-periphery**; and
 3. a **periphery** which is exploited and integrated in the economy to provide natural resources and cheap labor.
 
-![world-systems-theory-map.png](https://upload.wikimedia.org/wikipedia/commons/f/fd/World_trade_map.PNG)
-
 > [!NOTE]
 > Some members living under a semi-periphery and periphery state are connected to the capitalist world economy, thereby also being wealthy despite the area. Conversely, there are also exploited economic areas existing at the core.
 

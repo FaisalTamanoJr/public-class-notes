@@ -31,8 +31,6 @@ The history of electronics is divided into two eras:
 
 > [!TIP]- What is a Filament?
 > A filament is a threadlike object surrounded by the metal plates in a light bulb.
->
-> ![filament.png|200](https://upload.wikimedia.org/wikipedia/commons/a/a7/Filament_%28PSF%29.png)
 
 > [!TIP]- Helpful Visualization of the Experiment
 > <https://youtu.be/J66e1X_w6i0>
