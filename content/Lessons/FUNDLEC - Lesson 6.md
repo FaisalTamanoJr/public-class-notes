@@ -27,7 +27,7 @@ A *bipolar junction transistor* is a three-terminal electronic device composed o
 	- It has a **positive base** activation because of the P at the center.
 	- In the electronic symbol, the arrow is pointing **away from the base**.
 
-![BJT illustration](https://www.mepits.com/kcfinder/upload/images/Bipolar-Junction-Transistor.png)
+![BJT illustration](https://www.electroniclinic.com/wp-content/uploads/2022/04/construction-and-symbois-of-junction-transistor-341x360.jpg)
 
 - The **input** is located at the base activation. Conversely, the **output** is located at the collector and emitter.
 
