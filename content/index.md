@@ -11,3 +11,4 @@ This is just a reupload of some of the stuff found in [Class Notes](https://gith
 **EDIT: This website now has some content that has not been published to the original Class Notes (the original Class Notes repository has been *Abandoned*).**
 
 - [[Lessons/]]
+- [[Formula Sheets]]
