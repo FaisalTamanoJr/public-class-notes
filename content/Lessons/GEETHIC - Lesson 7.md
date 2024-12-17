@@ -101,19 +101,26 @@ Socialism claims that distributions are fair when the share of every member is p
 
 It aims to counteract the inequalities that arise from initial endowments in life (also known as *natural inequalities*), such as genes and the class of one’s parents. In this regard, it conflicts with capitalism (or the free market system), as socialism believes that underpinning the share of each members on their contribution will only exacerbate the problems engendered by their initial endowments in life.
 
-Besides this, socialism suggests that the type of work one is assigned with should match their natural talent in order for work to be fulfilling instead of alienating.
+Besides this, socialism suggests that the type of work one is assigned with should match their natural talent in order for work to be fulfilling instead of alienating, thereby correcting the initial inequalities in life.
 
 #### Justice as Fair Opportunity
 
-TODO
+This theory states that distributions are only fair when each group members receives a share proportional to the effort they exerted in achieving the group’s goals. According to [[Joel Feinberg]] a just distribution requires a criterion wherein every member has a fair opportunity to work. For him, *effort* fills that role of the criterion; nonetheless, he acknowledges that life’s initial endowments may affect the effort a person might exert (e.g., motivation of disabled people). Unlike other criteria, however, effort is the least affected by initial endowments (unlike contribution and needs, which are both highly influenced by one’s initial life advantages and disadvantages), and, as such, is the ideal criterion for justice as fair opportunity.
 
 #### Utilitarian Justice
 
-TODO
+This theory of justice contends that any distribution is fair as long as it leads to the maximum aggregate welfare (or intrinsic good). In theory, it can follow any other patterns (e.g. socialist justice, capitalist justice, etc.); however, its primary goal is to maximize the aggregate good, while the pattern it follows only has an instrumental value determined by its capacity to fulfill the primary goal.
+
+This theory of justice is often criticized for accepting the violation of human rights when it maximizes the overall aggregate welfare. This can occur when some individuals do not receive their share of the distribution to prioritize the overall good of the group.
 
 #### Justice as Fairness
 
-TODO
+This theory, as advanced by [[John Rawls]], postulates that a fair distribution is one where its governing principles are chosen by members in an objective or impartial way. Rawls invented *the original position* procedure for choosing principles in an impartial way. In this procedure, people imagine that they are under the *veil of ignorance*, wherein they ignore their features that are irrelevant to the point of negotiation (such as economic status, etc.); as a result, their approach in choosing distributive principles would be objective and fair to everyone.
+
+This theory implies that if the principles chosen for the distribution are fair, it follows that the distribution, likewise, will be fair. Rawls also introduced two principles:
+
+1. **Principle of equality:** it states that everyone should have equal basic rights and liberties.
+2. **Principle of fair inequality:** it states that, considering social and economic inequalities, distributions should have the two following principles: (a) provide equal opportunities for people to improve their life, and (b) be arranged in a way that benefits everyone (especially the less wealthy members).
 
 #### Libertarian Justice
 
