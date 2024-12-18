@@ -76,6 +76,25 @@ Aristotle describes justice as having two levels:
 
 #### What Makes Distributive Justice Special from the other Kinds of Justice
 
+There are four noteworthy types of justice:
+
+1. **Distributive justice:** the fair distribution of burdens and benefits.
+2. **Retributive justice:** the fair imposition of punishments to wrongdoers. *Punishment* is closely tethered to [[accountability]], in that it is fair when the degree of it imposed matches the degree of accountability. In summary the punishment is fair when (a) the person deserves to be punished and (b) the degree imposed is proportional to the degree of accountability. There are two criticisms for this kind of justice:
+	1. Is there a way to objectively determine how much punishment is enough given a degree of accountability?
+	2. Is the goal of punishment to hurt the wrongdoer? Or is it to prevent them from repeating the wrongdoing?
+3. **Compensatory justice:** pertains to the compensation to people who have lost items, functionality, or well-being (typically as a result of wrongful actions). For cases where one cannot restore the original state of life of the a particular wronged person, an equivalent good is exchanged instead. Nonetheless, a major issue is in objectively determining that equivalent good.
+4. **Procedural justice:** the fairness in the decision-making process. A fair decision-making process includes the following components:
+	1. *consistency* in application;
+	2. *impartiality* in implementation;
+	3. appropriate *representation* of those affected in the formulation of a procedure;
+	4. and *transparency* in the procedure implementation.
+
+Among these kinds, distributive justice is the most important one considering that it is fundamental to these kinds:
+
+1. Retributive justice is concerned with the proper *distribution* of punishment (burden) to those responsible for a particular wrongdoing.
+2. Compensatory justice is concerned with the proper distribution of compensation (benefits) to those who have unfairly lost something.
+3. Procedural justice is concerned with the fairness in the process involving the distribution of burden(s) and/or benefit(s).
+
 ### Theories of Distributive Justice
 
 Philosophers developed various theories of distributive justice for determining which method of distribution is considered *fair* and appropriate for everyone involved.
@@ -124,7 +143,11 @@ This theory implies that if the principles chosen for the distribution are fair,
 
 #### Libertarian Justice
 
-TODO
+[[Robert Nozick]] introduced the [[Libertarianism|Libertarian Justice Theory]] (or the *Entitlement Theory*)—a theory that claims that fair distributions require moral rights (particularly property rights) to be respected when acquiring and transferring the ownership of goods. It presupposes that distribution involves two processes of acquiring properties and giving its ownership to other people. This theory ignores the suggested patterns in distributions because it believes that strict adherence to the patterns can result in moral rights being undermined.
+
+For distributive justice to be realized, the property must be acquired through morally good means (not stolen), and, likewise, its ownership must also be transferred in a morally good manner (not forced). In case these were not achieved, distributive justice can be realized through the rectification of injustices.
+
+Nozick introduced the *moral side constraint* to ensure that moral rights are not violated: it is a principle that holds that each person should be treated as ends. This entails that everyone in the acquiring and transferring ownership process are informed and voluntarily consent when they participate. Consequently, forcing people to surrender their property rights so that a pattern of distribution is satisfied is a violation of the moral side constraint (people are being treated as means).
 
 ## Ethics of Care
 
