@@ -151,4 +151,57 @@ Nozick introduced the *moral side constraint* to ensure that moral rights are no
 
 ## Ethics of Care
 
+The [[ethics of care]] emerged as a response to the notion that [[Utilitarianism]] and [[Deontology]] are distant to the reality of moral experience. However, despite its emphasis on character-building and cultivating moral virtues, it distinguishes itself from [[Aristotelian ethics]] as it views this as biased in favor of male-oriented values, whereas *care ethics* also include female-oriented values.
+
+> [!INFO]- Feminist critiques of Aristotelian ethics
+> - Its portrayal of a virtuous person was tethered to an upper-class Athenian gentlemen.
+> - Its virtues was distinctly *masculine* and military-coded:
+> 	- independence
+> 	- courage
+> 	- autonomy
+> 	- loyalty
+> - It viewed the agent as an individual that is isolated from others. In this regard, moral philosophy serves as a framework for guiding others how to co-exist with others harmoniously.
+
+Introduced by women psychologists and philosophers, this theory illuminated the moral experiences of women. Nonetheless, it is a universal and non-sex specific theory because it can be applicable for all sexes. In contrast to traditional moral theories, this theory suggests that humans are naturally connected with one another—the basic unit of moral philosophy is not an individual, rather a mother-child relationship. It, therefore, centers its goal towards preserving human relationships.
+
+Another difference between traditional moral theories and care ethics is in their views on impartiality: traditional moral theories believe that moral decisions should be objective, universal, and free from the influences of personal identity (such as ethnic background, religious background, etc.), while care ethics claims that care for things involving our identity is essential in making an ethical response since it constitutes our happiness.
+
+### Gilligan’s Criticisms of Kohlberg’s Ideas
+
+TODO
+
+### Alternative Theory of Moral Development
+
+TODO
+
+#### Level 1: Individual Survival Orientation
+
+TODO
+
+#### Transition 1: From Selfishness to Responsibility
+
+TODO
+
+#### Level 2: Goodness as Self-sacrifice
+
+TODO
+
+#### Transition 2: From Goodness to Truth
+
+TODO
+
+#### Level 3: The Morality of Nonviolence
+
+TODO
+
+### Natural and Ethical Caring
+
+TODO
+
+### Person or Principle
+
+TODO
+
+### Criticisms of Care Ethics
+
 TODO
