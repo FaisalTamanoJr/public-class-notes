@@ -2,7 +2,7 @@
 draft: false
 tags: [GEETHIC]
 title: Contemporary Virtue Ethics
-date: 2024-07-18, 12:49
+date: 2024-12-29, 15:00
 ---
 
 ## Sources
@@ -168,40 +168,46 @@ Another difference between traditional moral theories and care ethics is in thei
 
 ### Gilligan’s Criticisms of Kohlberg’s Ideas
 
-TODO
+While investigating the morality of abortion, Gilligan interviewed women on their perspective of morality, and realized that it was incompatible with Lawrence Kohlberg’s framework. She noticed that his framework was insufficient in that it does not call attention to this different view of morality, and, as such, became a critic of Kohlberg’s theory.
+
+One of her contentions was that justice is not the most important criterion for moral rightness. This criterion was governed by abstract rules which focused on resolving conflicting rights based on which precedes the other. Hence, autonomous moral reasoning, in this perspective, was about determining how to fairly balance rights.
+
+> [!INFO]- Kohlberg’s theory
+>
+> According to Kohlberg, there are [[Kohlbergs theory|three levels of moral development]]:
+>
+> 1. Preconventional level - the morally good action is based on the reward one can gain.
+> 2. Conventional level - the morally good action is determined through one’s adherence towards social norms and law.
+> 3. Postconventional level - the morally good action is determined through one’s judgement on general principles (which principle is more important than others).
+
+Gilligan asserts that Kohlberg’s *three levels of moral development* is gender-biased as it only represents the moral perspective of men, and that it only studied white and rich men. She states that, due to their individualistic view of the self and predisposition to impartiality, men see morality as an issue of conflicting rights. In contrast, the women’s conception of the self—interdependent and connected with others—meant that morality was a challenge of resolving conflicting responsibilities. The concern for others and the desire to make and nurture harmonious relationships underlies this viewpoint.
+
+Gilligan believes that the differences in the conception of morality between the two sexes emerges from how they were raised: boys are raised to be independent, achievement-oriented, and assertive; whereas, girls are raised to be empathetic and nurturing. For this reason, she puts forward the idea that the levels of moral development is different for men and women, but neither is better or worse.
+
+Lastly, Gilligan highlighted issues that emerges from having two different approaches depending on the sex: because of the relationship and responsibility based conception of morality, women tend to have an underdeveloped conception of their own rights, needs, or self-responsibilities; on the other hand, men tend to struggle with intimacy and connection, and have problems with negotiating problems of communication in relationships. For Gilligan, the challenge is to learn how to recognize one’s identity and needs, while also seeing the importance of relationships with others.
 
 ### Alternative Theory of Moral Development
 
-TODO
+TODO 2024-12-27
 
 #### Level 1: Individual Survival Orientation
 
-TODO
-
 #### Transition 1: From Selfishness to Responsibility
-
-TODO
 
 #### Level 2: Goodness as Self-sacrifice
 
-TODO
-
 #### Transition 2: From Goodness to Truth
-
-TODO
 
 #### Level 3: The Morality of Nonviolence
 
-TODO
-
 ### Natural and Ethical Caring
 
-TODO
+TODO 2024-12-28
 
 ### Person or Principle
 
-TODO
+TODO 2024-12-28
 
 ### Criticisms of Care Ethics
 
-TODO
+TODO 2024-12-29
