@@ -188,26 +188,38 @@ Lastly, Gilligan highlighted issues that emerges from having two different appro
 
 ### Alternative Theory of Moral Development
 
-TODO 2024-12-27
+To design a framework describing the moral development of women, Gilligan interviewed 29 pregnant women on their stances on abortion. After her analysis of their responses, she summarized their moral growth into three levels, where each level represents a milestone which corresponds to the depth of one’s understanding on the relationship between their own perspective and the rights and concerns of others.
 
 #### Level 1: Individual Survival Orientation
 
+At the first stage, a woman is only concerned with their own needs and desires, thereby ignoring the needs and desires of others.
+
 #### Transition 1: From Selfishness to Responsibility
+
+This transition occurs when one recognizes that their own interests can conflict with the morally right action.
 
 #### Level 2: Goodness as Self-sacrifice
 
+At this level, a woman practices many traditional feminine values and assess themselves according to their interpersonal relationships—their primary goal is to protect and support the best interest of others, even if it is detrimental to themselves. As a result, it becomes difficult for them to make the right decisions when the interests of multiple people clashes with one another.
+
 #### Transition 2: From Goodness to Truth
+
+This transitional period is marked by the capacity to acknowledge one’s self-importance and question the morality of self-sacrifice. Although a woman will still try to be responsible to others (goodness), they will also look out for themselves and admit that it can be wrong to hurt oneself (truth).
 
 #### Level 3: The Morality of Nonviolence
 
+At the final level, the moral judgments of a woman is founded on the principle of not hurting anyone, where they also consider that their importance is equal to that of others.
+
+The main difference between the female and male constructions of the moral domain is that the former focuses on *care*, while the latter focuses on following *rules*. In other words, care and responsibility is the most vital factor for women when making moral judgments. Connections and proper care is fundamental in their view, whereas the male perspective mostly stress the need for noninterference and justice.
+
 ### Natural and Ethical Caring
 
-TODO 2024-12-28
+TODO 2024-12-30
 
 ### Person or Principle
 
-TODO 2024-12-28
+TODO 2024-12-30
 
 ### Criticisms of Care Ethics
 
-TODO 2024-12-29
+TODO 2024-12-31
