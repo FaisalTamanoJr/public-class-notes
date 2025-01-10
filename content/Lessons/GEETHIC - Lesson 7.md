@@ -214,12 +214,14 @@ The main difference between the female and male constructions of the moral domai
 
 ### Natural and Ethical Caring
 
-TODO 2024-12-30
+One writer that further underscored the importance of caring was [[Nel Noddings]]. She asserted that ethical caring is not better than natural caring; the former is contingent on the latter. She grounds this claim by using Hume’s argument—morality is founded on feeling. For this reason, she blurs the line between what one *ought* to do and what one *wants* to do.
+
+Noddings suggests avoiding those devoid of empathy because they are abnormal. Furthermore, she states that, although humans are not required to care, they can still accept their natural response (care) and act selflessly, since this is a natural part of being human. In other words, we have the choice to act according to our caring emotion, or reject it and not act.[^1]
+
+Noddings believes that the desire to be moral comes from the innate human desire to connect and stay connected with others. Furthermore, she thinks that mainstream philosophies, like Kant’s, often lead to the detachment of our human nature from ethics and rationality, something which she thinks is wrong.
 
 ### Person or Principle
 
-TODO 2024-12-30
-
 ### Criticisms of Care Ethics
 
-TODO 2024-12-31
+[^1]: I’m not confident with my interpretation for this one. Noddings stated something that potentially contradicts with my interpretation: if the moral agent feels like they cannot do anything to change the outcome, they can choose to not act and, therefore, not care about it. As a result, they are removed from the moral dilemma. In this regard, it is possible to care but feel like you cannot accomplish what you ought to do or aim to achieve.
