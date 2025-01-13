@@ -53,14 +53,19 @@ date: 2025-01-11, 14:34
 14. 2003
 	- There was a decision to create a ASEAN community and a need to reform the organizational structure and decision-making process.
 15. December 2008
-	- Implementation of the **ASEAN Charter** which made the organization’s structure become rooted in three community pillars: *the ASEAN Political–Security Community (APSC)*, *ASEAN Economic Community (AEC)*, and *ASEAN Social–Cultural Community (ASCC)*.
-		- It also defined the duties and rights of each member states.
-		- It also states the roles and relationships of every ASEAN body.
+	- Implementation of the **ASEAN Charter**.
+		- It defined the duties and rights of each member states.
+		- It stated the roles and relationships of every ASEAN body.
 		- It encouraged ASEAN summits.
-16. 2009
-	- Establishment of the *ASEAN Intergovernmental Commission on Human Rights*
-17. 2012
+16. October 2009
+	- Establishment of the *ASEAN Intergovernmental Commission on Human Rights*.
+17. November 19, 2012
 	- Signing of the *ASEAN Human Rights Declaration*
+18. December 31, 2015
+	1. Redefining of the ASEAN at the ASEAN Community to be founded on three pillars:
+		- ASEAN Political–Security Community (APSC)
+		- ASEAN Economic Community (AEC)
+		- ASEAN Social–Cultural Community (ASCC)
 
 ### Model of Cooperation
 
@@ -75,17 +80,23 @@ This method aims to avoid any contentions between its members, and, as such, iss
 Summits are held at the state of the current ASEAN chair. The chair changes each year, in the alphabetical order of the country names. That state also chairs the ACC, the three community councils, and the CPR.
 
 > [!INFO] ASEAN’s Main Decision-Making Bodies
+>
+> | Name                                                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                   |
+> | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | ASEAN Summit                                               | - Highest policy-making body<br>- Made up of the members states’ government or their heads<br>- Held twice each year                                                                                                                                                                                                                                                                                                          |
+> | ASEAN Coordinating Council                                 | - Made up of the foreign ministers of member states<br>- At least two annual meetings<br>- Organize the implementation of decisions made during summit meetings<br>- Assists in Community Council Activities<br>- Reviews the annual reports submitted by the Secretary General                                                                                                                                               |
+> | ASEAN Community Councils                                   | - The three pillars of the ASEAN Community—the Security Council, the Economic Council, and the Socio-Cultural Council—have at least two meetings each year for the implementation of summit decisions pertinent to their areas of responsibility.<br>- They make reports for the ASEAN Summit.<br>- They provide recommendations to the ASEAN Summit.<br>- They arrange the activities of ministerial bodies related to them. |
+> | ASEAN Sectoral Ministerial Bodies                          | They are responsible for the summit decision implementation pertinent to their area of responsibility.                                                                                                                                                                                                                                                                                                                        |
+> | ASEAN Secretariat                                          | The secretariat facilitates the collaboration between the ASEAN organs and stakeholders.                                                                                                                                                                                                                                                                                                                                      |
+> | Secretary General of ASEAN                                 | - Supervises the implementation of joint member states’ decisions.<br>- Attends the meetings of other bodies.<br>- Presents the ASEAN policy.<br>- After every five years, a new secretary is appointed by the ASEAN Summit.<br>- Four deputies support them.                                                                                                                                                                 |
+> | Committee of Permanent Representative to ASEAN             | - Assists the activities of the Community Councils <br>- Works with the National Secretariats and Secretary General<br>- Promotes collaboration with ASEAN partners                                                                                                                                                                                                                                                           |
+> | ASEAN National Secretariats                                | Appointed by member states, they facilitate the Summit decision implementation at a national level                                                                                                                                                                                                                                                                                                                            |
+> | ASEAN Intergovernmental Commission on Human Rights (AICHR) | Promotes and protects human rights                                                                                                                                                                                                                                                                                                                                                                                            |
+> | ASEAN Foundation                                           | - Promotes face to face interactions<br>- Provides identity<br>- Fosters close cooperation between different facets of society                                                                                                                                                                                                                                                                                             |
 
-| Name                                                       | Description                                                                                                                                                                                                                                                                |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ASEAN Summit                                               | - Highest policy-making body<br>- Made up of the members states’ government or their heads<br>- Held twice each year                                                                                                                                                       |
-| ASEAN Coordinating Council                                 | - Made up of the foreign ministers of member states<br>- At least two annual meetings<br>- Helps in implementing the decisions made during summit meetings<br>- Assists in Community Council Activities<br>- Reviews the annual reports submitted by the Secretary General |
-| ASEAN Sectoral Ministerial Bodies                          |                                                                                                                                                                                                                                                                            |
-| ASEAN Secretariat                                          |                                                                                                                                                                                                                                                                            |
-| Secretary General of ASEAN                                 |                                                                                                                                                                                                                                                                            |
-| Committee of Permanent Representative to ASEAN             |                                                                                                                                                                                                                                                                            |
-| ASEAN National Secretariats                                |                                                                                                                                                                                                                                                                            |
-| ASEAN Intergovernmental Commission on Human Rights (AICHR) |                                                                                                                                                                                                                                                                            |
-| ASEAN Foundation                                           |                                                                                                                                                                                                                                                                            |
+- Track two activities assist in enhancing communication and socialization at a government level. Track one and track two activities are crucial means for the government and academics to facilitate intra-regional communication.
+- The *Association of Institutes for International and Strategic Studies* serve as one of the ASEAN’s primary think tanks.
+- The *ASEAN Civil Society Conference/ASEAN Peoples Forum* is held every year alongside the ASEAN Summit, ever since 2005.
+- The *ASEAN Charter* and the *ASEAN Community Vision 2025* serves as the guideline document for the association.
 
 ## 2. ASEAN and the International Relations Theory
