@@ -40,28 +40,34 @@ date: 2025-01-11, 14:34
 	- First ASEAN summit meeting, which was held in Bali, Indonesia.
 8. February 1976
 	- Establishment of a **central secretariat** in Indonesia.
-9. 1984
+9. 1977
+	- Signing of a *Preferential Trading Arrangement (PTA)* between member states.
+10. 1984
 	- Brunei joined the ASEAN.
-10. 1995
+11. 1992
+	- ASEAN members agreed to gradually implement an *ASEAN Free Trade Area (AFTA)*
+12. 1995
 	- Vietnam joined the ASEAN.
-11. 1997
+13. 1997
 	- Laos and Myanmar joined the ASEAN.
-12. 1999
+14. 1999
 	- Cambodia joined the ASEAN.
-13. 2002
+15. 2002
 	- Timor-Leste achieved national independence but is not part of the ASEAN
-14. 2003
+16. 2003
 	- There was a decision to create a ASEAN community and a need to reform the organizational structure and decision-making process.
-15. December 2008
+17. 2007
+	1. The AEC Blueprint produced a framework and roadmap for establishing the ASEAN as a single market and production base, while targeting 2015 as the implementation’s deadline.
+18. December 2008
 	- Implementation of the **ASEAN Charter**.
 		- It defined the duties and rights of each member states.
 		- It stated the roles and relationships of every ASEAN body.
 		- It encouraged ASEAN summits.
-16. October 2009
+19. October 2009
 	- Establishment of the *ASEAN Intergovernmental Commission on Human Rights*.
-17. November 19, 2012
+20. November 19, 2012
 	- Signing of the *ASEAN Human Rights Declaration*
-18. December 31, 2015
+21. December 31, 2015
 	1. Redefining of the ASEAN at the ASEAN Community to be founded on three pillars:
 		- ASEAN Political–Security Community (APSC)
 		- ASEAN Economic Community (AEC)
@@ -98,5 +104,35 @@ Summits are held at the state of the current ASEAN chair. The chair changes each
 - The *Association of Institutes for International and Strategic Studies* serve as one of the ASEAN’s primary think tanks.
 - The *ASEAN Civil Society Conference/ASEAN Peoples Forum* is held every year alongside the ASEAN Summit, ever since 2005.
 - The *ASEAN Charter* and the *ASEAN Community Vision 2025* serves as the guideline document for the association.
+
+### Was ASEAN Successful?
+
+Was ASEAN successful in their mission to maintain peace and stability?
+
+Although **wars between its members have not yet occurred**, occasional skirmishes have happened in the past:
+
+- Burmese ethnic conflicts that affected Thai territory; hence, their troops met at the border in 2001.
+- Territorial dispute between Thailand and Cambodia from 2008 to 2011
+- The conflict between Philippine militants and Malaysian security forces—also known as the *Lahad Datu stand-off* of 2013.
+
+Luckily, the Southeast Asian conflict management strategies, often informal, aided in preserving the stability of the region and preventing the disputes from escalating. Various problems also demonstrate the readiness of ASEAN member states and the effectiveness of their conflict management strategies. The challenges they encountered include the following:
+
+- Controversies involving the distribution of resources;
+- Territorial disputes;
+- Heated discussions over migration issues
+
+Currently, the most high-profile ASEAN issue is the South China dispute, wherein a solution still does not exist and the conflict can still escalate.
+
+Besides the informal conflict management mechanisms, ASEAN’s security agenda stressing the importance of being aware of non-traditional security led them to develop effective potential responses to all noteworthy challenges involving human security (e.g., terrorism, infectious diseases, natural disasters, etc.).
+
+As a result of emphasizing security and stability, ASEAN greatly contributed to the rapid economic growth of its member states (therefore, cultivating a favorable investment climate), outpacing plenty of other regions in the world. This is evidenced by the leap of member states to at least medium level of development in the *Human Development Index*. In addition, the rise of the ASEAN’s share of global gross domestic product (GDP) from 0.8% in 1970 to 2.6% in 2015.
+
+Despite the rapid economic growth, economic integration still evolved slowly. The signing of PTA to reinforce economic relations, even if having only a small effect, still signified the end of some member states’ resistance towards trade liberalization. Another major achievement in promoting economic integration was the implementation of the AFTA.
+
+OTHER ACHIEVEMENTS
+
+- Currently, ASEAN members eliminated 98.6% of their tariff lines.
+- Harmonization of product standards across the region helped in minimizing the technical barriers to trade
+- Introduction of an electronic region-wide customs clearance system—the ASEAN Single Window.
 
 ## 2. ASEAN and the International Relations Theory
