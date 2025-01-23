@@ -8,11 +8,8 @@ date: 2025-01-11, 14:34
 ## Sources
 
 1. Chapter 1 of *The Elgar Companion to ASEAN* by Jörn Dosch and Frederick Kliem
-2. Chapter 2 of *The Elgar Companion to ASEAN* by Alan Chong, Jörn Dosch, and Frederick Kliem
 
-## 1. Introduction to the Association of Southeast Asian Nations
-
-### Timeline
+## Timeline
 
 1. January 1959
 	- The *Southeast Asian Friendship and Economic Treaty* was proposed as a result of the shared goal between [[Tunku Abdul Rahman]] and [[Carlos P. Garcia]] (a coordinated regional effort to fight against communists). [[Thanat Khoman]] supported this proposal.
@@ -44,36 +41,44 @@ date: 2025-01-11, 14:34
 	- Signing of a *Preferential Trading Arrangement (PTA)* between member states.
 10. 1984
 	- Brunei joined the ASEAN.
-11. 1992
+11. 1985
+	- The US president, Ronald Raegan, participated in the PMC
+12. 1992
 	- ASEAN members agreed to gradually implement an *ASEAN Free Trade Area (AFTA)*
-12. 1995
+13. 1995
 	- Vietnam joined the ASEAN.
-13. 1997
+14. 1996
+	- Founding of the Asia-Europe Meeting.
+15. 1997
 	- Laos and Myanmar joined the ASEAN.
-14. 1999
+16. 1999
 	- Cambodia joined the ASEAN.
-15. 2002
+17. 2002
 	- Timor-Leste achieved national independence but is not part of the ASEAN
-16. 2003
+18. 2003
 	- There was a decision to create a ASEAN community and a need to reform the organizational structure and decision-making process.
-17. 2007
-	1. The AEC Blueprint produced a framework and roadmap for establishing the ASEAN as a single market and production base, while targeting 2015 as the implementation’s deadline.
-18. December 2008
+19. 2005
+	- Creation of the East Asia Summit
+20. 2007
+	- The AEC Blueprint produced a framework and roadmap for establishing the ASEAN as a single market and production base, while targeting 2015 as the implementation’s deadline.
+21. December 2008
 	- Implementation of the **ASEAN Charter**.
 		- It defined the duties and rights of each member states.
 		- It stated the roles and relationships of every ASEAN body.
 		- It encouraged ASEAN summits.
-19. October 2009
+22. October 2009
 	- Establishment of the *ASEAN Intergovernmental Commission on Human Rights*.
-20. November 19, 2012
+23. 2010
+	- ASEAN-China Free Trade Agreement entered the force.
+24. November 19, 2012
 	- Signing of the *ASEAN Human Rights Declaration*
-21. December 31, 2015
-	1. Redefining of the ASEAN at the ASEAN Community to be founded on three pillars:
+25. December 31, 2015
+	- Redefining of the ASEAN at the ASEAN Community to be founded on three pillars:
 		- ASEAN Political–Security Community (APSC)
 		- ASEAN Economic Community (AEC)
 		- ASEAN Social–Cultural Community (ASCC)
 
-### Model of Cooperation
+## Model of Cooperation
 
 The decision-making process and cooperation found in the ASEAN emphasize the virtue of sovereignty, wherein members do not interfere with the domestic affairs of other members, conflicts are resolved peacefully, and every member is treated equally. Their process is founded on 3 principles: *musyawarah* (consultation), *mukafat* (agreement), and *gotong royong* (sense of community).
 
@@ -105,7 +110,7 @@ Summits are held at the state of the current ASEAN chair. The chair changes each
 - The *ASEAN Civil Society Conference/ASEAN Peoples Forum* is held every year alongside the ASEAN Summit, ever since 2005.
 - The *ASEAN Charter* and the *ASEAN Community Vision 2025* serves as the guideline document for the association.
 
-### Was ASEAN Successful?
+## Was ASEAN Successful?
 
 Was ASEAN successful in their mission to maintain peace and stability?
 
@@ -135,4 +140,64 @@ OTHER ACHIEVEMENTS
 - Harmonization of product standards across the region helped in minimizing the technical barriers to trade
 - Introduction of an electronic region-wide customs clearance system—the ASEAN Single Window.
 
-## 2. ASEAN and the International Relations Theory
+## ASEAN and Relations Outside of the Region
+
+- In the early 1970s, ASEAN became more interactive with actors outside of the region.
+	1. Establishment of the ASEAN **Post Ministerial Conferences** (PMC), currently with dialogue partners composing of the EU and 9 states: Australia, Canada, India, Japan, New Zealand, People’s Republic of China, Russia, South Korea, and the United States.
+		- As a well-established and coherent organization, the PMC was given a crucial role in the Asia-Pacific cooperation process.
+	2. From the outside perspective, the ASEAN is a **poltico-diplomatic coalition**
+- With their strengthened ties and prominent dialogue mechanisms, the ASEAN have enhanced their confidence and chance of succeeding when bargaining with countries outside of the region.
+- The ASEAN amplifies the collective bargaining power of its member states within international forums and organizations.
+- The ASEAN published an Outlook on the Indo-Pacific (AIOP) in 2019, wherein it recognizes that attention shifted globally from Asia-Pacific to the Indo-Pacific region, and, as such, the ASEAN aims to promote their perspective within this region.[^indopacific]
+	- In this publication, they prove their determination to maintain their centrality and diminish the region’s growing polarization.
+- ASEAN weakened the Northeast Asia multilateral dominance and expanded their own towards the Indo-Pacific by introducing the East Asia Summit in 2005, inviting Australia, India, and New Zealand. This led to it being the **center of the Asian multilateral region**.
+
+### US and the ASEAN
+
+- In 2011, President Obama supported ASEAN’s regional centrality by pivoting the US foreign policy to include its endorsement of ASEAN centrality.[^obama] This was elevated to *strategic partnership* in 2016, and further to *comprehensive strategic partnership* during Joe Biden’s administration.
+- In a practical sense, ASEAN welcomes the US contributions to the peace and stability of the region. This is because the US can heavily influence the threats and opportunities that affect Southeast Asia, and also their international relationships.
+
+### China and the ASEAN
+
+- In the early 1990s, the relationship between China and Southeast Asia has shifted from mutual hostility (as a result of the cold war and ideological differences) to normalized relations.
+- The ASEAN-China Free Trade Agreement was a testament to the mutually advantageous economic relationship between China and Southeast Asia; nonetheless, the benefits varied for each member states (Malaysia benefitted the most, while it negatively impacted Vietnam’s economy).
+- Potential threats to the Sino-ASEAN relations:
+	- South China Sea disputes
+	- US-China conflict
+- Periods describing the state of their relationship:
+	1. suspicion
+	2. alignment
+	3. normalized engagement
+	4. common cooperation
+	5. contradiction
+	6. stabilization
+- Events marking China’s support towards Southeast Asia:
+	- China aiding ASEAN during COVID-19;
+	- China assisting the Southeast Asia domestic infrastructure projects;
+	- and the *Regional Comprehensive Economic Partnership of 2020*, which was used to stabilize regional supply chains during the pandemic.
+
+### Japan and the ASEAN
+
+- Because of the significance of Southeast Asian stability to Japan, Australia, and India, these middle powers are interested in increasing their engagement with the region, especially Japan.
+- Tokyo gradually strengthened their position in Southeast Asia through developmental aid and emphasis on economic relations, even their relationship had a lukewarm beginning.
+
+### Europe and the ASEAN
+
+- High points of the relationship:
+	- The founding of the Asia-Europe Meeting in 1996.
+- Low points of the relationship:
+	- Suspension of the inter-regional free trade negotiations in 2009.
+	- Diplomatic issue with Myanmar’s ASEAN membership, with Europe’s concern over the oppressive military regime occurring in the country before its liberalization in 2011, and, similarly, after the military coup in 2021.
+- Although the EU, specifically the European Commission, seems like they would reasonably be partners with the ASEAN, *The 3rd ASEAN Reader*—the latest academic papers compilation covering Southeast Asia regionalism—did not even include a single chapter about EU-ASEAN relations or Europe’s role in the region.
+	- Nonetheless, Europe has a considerable role in Southeast Asia, often viewed as a soft power—the normative influence a group has over the international system without the use of military force—in the region.
+- Yeo Lay believes that EU wants to be more than the ASEAN’s most important economic partner: they also want to have an important role in ASEAN politics and security, as these are tied to EU’s prosperity.
+
+## Relevance of International Relations Theories
+
+- The foundation of ASEAN demonstrates neorealist thought, in that it was inspired by the need to balance power for the security of small and medium sized states against communism (symbolized by the Soviet Union), as some Southeast Asian nations were already sided with a superpower (United States).
+	- The economic state of Southeast Asia were contingent on external powers (e.g., US, EU, etc.), thereby proving the neorealist view that stability is achieved through power dominance.
+	- Foreign policy was a form of self-help and military power.
+- Neorealism fails to explain the effect of institutional building on regional peace and stability; as a result, Liberal institutionalists challenge this view and argue that regional cooperation led to lesser uncertainties and hostilities and better trust and transparency within the region.
+
+[^indopacific]: It is important to note that the ASEAN is located at the center of the Indo-Pacific region.
+[^obama]: In this context, ASEAN centrality referred to ASEAN’s lead role in institutions like the ARF, East Asia Summit, and the ASEAN Defence Ministers Meeting Plus.
