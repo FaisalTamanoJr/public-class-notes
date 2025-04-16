@@ -168,7 +168,7 @@ Another difference between traditional moral theories and care ethics is in thei
 
 ### Gilligan’s Criticisms of Kohlberg’s Ideas
 
-While investigating the morality of abortion, Gilligan interviewed women on their perspective of morality, and realized that it was incompatible with Lawrence Kohlberg’s framework. She noticed that his framework was insufficient in that it does not call attention to this different view of morality, and, as such, became a critic of Kohlberg’s theory.
+While investigating the morality of abortion, [[Carol Gilligan]] interviewed women on their perspective of morality, and realized that it was incompatible with Lawrence Kohlberg’s framework. She noticed that his framework was insufficient in that it does not call attention to this different view of morality, and, as such, became a critic of Kohlberg’s theory.
 
 One of her contentions was that justice is not the most important criterion for moral rightness. This criterion was governed by abstract rules which focused on resolving conflicting rights based on which precedes the other. Hence, autonomous moral reasoning, in this perspective, was about determining how to fairly balance rights.
 
@@ -222,6 +222,38 @@ Noddings believes that the desire to be moral comes from the innate human desire
 
 ### Person or Principle
 
+Noddings identified two roles in a caring relationship: one caring and another being cared for. In this perspective, individuals are always treated as an end and never a means.
+
+One paradox that is intrinsic to the every relationship is the maintenance of one's identity despite the growth of closeness to another. This implies that because we preserve our individuality (autonomy and subjectivity) in every relationship, we should also acknowledge the individuality of others. For this reason, genuine relationships are founded by each party upholding the other party's personhood. Noddings emphasizes the notion that the person receiving the care is a *subject* and not an *object*.
+
+Noddings objects to the impartial way of handling ethics. According to her, it is not enough to only extract the morally relevant details from a situation: this system depends on the idea of universal principles, which depends on the idea of sameness in different situations; however, in demonstrating the sameness in different moral situations, the factors that gave rise to the moral questions are lost. The qualities that define the differences between situations and, therefore, make the moral issue a *puzzle* cannot be solved by relying on principles founded on the idea of universality and sameness. In this regard, moral judgements must be performed on a case-to-case basis, wherein right and wrong actions are determined by their faithfulness to the ethical ideal (the preservation of the caring relation).
+
+This viewpoint sheds light on the importance of considering the full context before making moral judgements. It puts forward the idea that moral judgements are not mainly for the sake of judging, but instead, for heightening moral sensitivity and perception. In other words, principles are not only merely identified when judging moral actions, but the justification behind the rightness and wrongness moral actions are also considered.
+
+
+> [!SUMMARY] 
+> Ethics care stresses the notion that general rules barely offer any guidance and each situation should be judged differently. Moral judgement should consider the unique context (as a result of the relationship of the self with other selves) involved when judging a particular action. This is because everyone is not obliged to obeying universal moral principles, but rather, attend and respond to the good of the people they are in a close relationship with.
+
+In contrast to the ethics of justice (which believes that we are beings independent of relationships), the ethics of care assumes that individuals cannot survive in isolation from caring relationships with others. It is essential that we participate in communities with a language and culture we share and allow us to discover our own identity. Because relationships let us understand our own identity and value, they are necessary for our self to exist. **Your identity is defined by the people you are related to and how you are related to them.**
+
+> [!QUOTE]-
+> *One should act partially according to one's passion for particular people*
+> 
+> — Curzer, 1999
+
 ### Criticisms of Care Ethics
+
+- It promotes the kind of slave morality that validates the oppression of women. This notion originates from [[Friedrich Nietzsche|Nietzsche's]] *Towards a Genealogy of Morals* in which he proposed that the oppressed tend to encourage moral systems that advocate that their subservient attributes are 'good'.
+	- The problem with this kind of slave morality can be illustrated in the existing division of labor: the idea that care ethics is for women may reinforce the strict gender roles assigned in society and occupations—women should only do tasks concerning care (e.g., homemaker, nurse, etc.) while men should do tasks concerning leadership.
+	- Real gender equality should also allow women to think for themselves and make autonomous decisions.
+- It is criticized for being narrow-minded in that value is dependent on one's closeness to the other party. For this reason, critics worry that larger social dynamics may be ignored in favor of one's closer family and friends.
+	- [[Victoria Davion]] suggested that caring can sometimes be a crutch to one's own morals. For example, a person who has to choose between defending the racist actions of their family and a stranger being discriminated by their family may defend their family to protect their relationship—an immoral act which is justifiable under the lens of care ethics.
+
+### Response to the Criticisms of Care Ethics
+
+- In the later writings, Noddings support a form of care ethics that display justice and resist arbitrary favoritism. Nonetheless, she maintains the position that the best social policies are based on the practices that cultivate good personal relationships.
+- [[Virginia Held]] extends care ethics to the global level by supporting international practices that nurture relations of trust, attend to the concern of others, advance international cooperation, and highlight interdependence.
+	- She argues that care and justice can be meshed because they are complementary and useful when combined.
+- Modern supporters of care ethics argue that care ethics is compatible with the rational and impartial approach to morality by putting forward the idea that it relies on the principle of caring obligation.
 
 [^1]: I’m not confident with my interpretation for this one. Noddings stated something that potentially contradicts with my interpretation: if the moral agent feels like they cannot do anything to change the outcome, they can choose to not act and, therefore, not care about it. As a result, they are removed from the moral dilemma. In this regard, it is possible to care but feel like you cannot accomplish what you ought to do or aim to achieve.
