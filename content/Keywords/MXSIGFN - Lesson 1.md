@@ -1,5 +1,5 @@
 ---
-title: 
+title: Differential Amplifiers
 draft: false
 tags:
   - MXSIGFN
