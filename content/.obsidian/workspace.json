@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lessons/MXSIGFN - Lesson 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -168,8 +168,9 @@
   },
   "active": "faafbca02451ff86",
   "lastOpenFiles": [
-    "Keywords/Differential amplifiers.md",
+    "Formula Sheets.md",
     "Lessons/MXSIGFN - Lesson 1.md",
+    "Keywords/Differential amplifiers.md",
     "Keywords/MXSIGFN - Lesson 1.md",
     "Lessons/NUMMETS - Lesson 7.md",
     "Lessons/OPESSYS - Lesson 1.md"

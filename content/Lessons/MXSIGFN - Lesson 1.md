@@ -69,6 +69,57 @@ Analysis can be performed in terms of DC or AC.
 > | Case 3: $V_{1} = V_{2}$   | $V_{o}=0$          | Common mode condition                  |
 >
 
+Base-emitter loop
+
+$$
+\begin{align}
+V_{EE} - V_{BE_{1}}-I_{EE}R_{E}=0 && \text{and} && 
+V_{EE} - V_{BE_{2}}-I_{EE}R_{E}=0
+\end{align}
+$$
+
+When $V_{1}$ and $V_{2}$ are applied to the inputs, we get the loop $V_{1}-V_{BE_{1}}+V_{BE_{2}}-V_{2}=0$ and allows us to derive the following equations:
+
+$$
+\begin{align}
+I_{E_{1}} = \frac{I_{EE}}{1+e^{-(\frac{V_{1}-V_{2}}{V_{T}})}} && \text{and} && I_{E_{2}} = \frac{I_{EE}}{1+e^{\frac{V_{1}-V_{2}}{V_{T}}}}
+\end{align}
+$$
+
+$V_{o}=(I_{c_{2}}-I_{c_{1}})R_{c}$
+
+#### Case 1: V1-V2 >> 100 mV
+
+$I_{E_{1}} \approx I_{EE}$, $Q_{1}$ saturates
+$I_{E_{2}} \approx 0$, $Q_{2}$ is cut-off
+
+Output is **negative**
+
+$V_{o} \cong -I_{EE}R_{c}=-V_{sat}$
+
+#### Case 2: V1-V2 >> -100 mV
+
+$I_{E_{1}} \approx 0$, $Q_{1}$ is cut-off
+$I_{E_{2}} \approx I_{EE}$, $Q_{2}$ saturates
+
+Output is **positive**
+
+$V_{o} \cong -I_{EE}R_{c}=V_{sat}$
+
+#### Case 3: V1=V2
+
+$$
+\begin{align}
+I_{E_{1}}=\frac{I_{EE}}{2}&& \text{and} && I_{E_{2}} = \frac{I_{EE}}{2}
+\end{align}
+$$
+
+$V_{o}=0$ 
+
+
+> [!INFO] 
+> The differential mode input $v_{d}$ **should have a small value** for the bipolar differential amplifier to operate properly in the linear region. Otherwise, one transistor will dominate and it will function less like an amplifier and more like a switch.
+
 ### Differential Gain
 
 ### Common Mode Gain
