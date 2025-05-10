@@ -14,7 +14,7 @@ date: 2025-05-10, 12:07
 
 ## Introduction
 
-*Differential amplifiers* are used often to amplify voltage whereby the **difference of two inputs are obtained to amplify the signals**. In contrast to single-ended amplifiers, which amplifies both signal and noise, differential amplifiers only amplify the desired signal while **eliminating the noise**.
+[[Differential amplifiers]] are used often to amplify voltage whereby the **difference of two inputs are obtained to amplify the signals**. In contrast to single-ended amplifiers, which amplifies both signal and noise, differential amplifiers only amplify the desired signal while **eliminating the noise**.
 
 ### Advantages
 

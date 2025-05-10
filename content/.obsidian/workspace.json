@@ -11,10 +11,14 @@
             "id": "faafbca02451ff86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/MXSIGFN - Lesson 1.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MXSIGFN - Lesson 1"
             }
           }
         ]
@@ -164,8 +168,9 @@
   },
   "active": "faafbca02451ff86",
   "lastOpenFiles": [
-    "Keywords/MXSIGFN - Lesson 1.md",
+    "Keywords/Differential amplifiers.md",
     "Lessons/MXSIGFN - Lesson 1.md",
+    "Keywords/MXSIGFN - Lesson 1.md",
     "Lessons/NUMMETS - Lesson 7.md",
     "Lessons/OPESSYS - Lesson 1.md"
   ]
