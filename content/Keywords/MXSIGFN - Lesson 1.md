@@ -1,7 +1,8 @@
 ---
-title:
+title: 
 draft: false
-tags: [""]
+tags:
+  - MXSIGFN
 date: 2025-05-10, 12:07
 ---
 > [!WARNING] 
