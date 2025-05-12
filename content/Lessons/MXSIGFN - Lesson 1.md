@@ -273,15 +273,89 @@ $$
 
 ### Widlar Current Source
 
+Base-emitter loop:
+
+> [!TIP]- RECALL 
+> $V_{BE}=V_{T}\ln\dfrac{I_{E}}{I_{s}}$
+
+$$V_{BE_{1}}-V_{BE_{2}}-I_{E_{2}}R_{2}=0$$
+Therefore,
+
+$$
+V_{T}\ln\frac{I_{E_{1}}}{I_{E_{2}}}-I_{E_{2}}R_{2}=0
+$$
+
+The effective output resistance is
+
+$R_{TH}=R_{E}=\dfrac{v_{th}}{i_{th}}$
+
+The effective emitter resistance is
+
+$$
+R_{E}=r_{o}\left(1+\dfrac{I_{c_{2}}R_{2}}{V_{T}}\right)
+$$
+
+$R_{1}$, which is used to get $I_{REF}$, is equivalent to
+
+$$
+R_{1}=\frac{V_{CC}+V_{EE}-V_{BE_{1}}}{I_{REF}}
+$$
+
 ### Wilson Current Source
+
+The *Wilson current source* is valuable due to its uses in **getting a high output resistance**. Moreover, its not very sensitive towards base currents. The **output collector voltage also changes much less** when the bias current $I_{o}$ is changed, especially compared to a two-transistor current source.
+
+It has an effective emitter resistance equivalent to
+
+$$
+R_{E} = \dfrac{\beta r_{o}}{2} = \dfrac{\beta V_{A}}{2I_{C_{2}}}
+$$
 
 ### Current Mirror
 
+- The change in the emitter area makes the currents $I_{c_{2}}$, $I_{c_{3}}$, and $I_{c_{4}}$ multiples of $I_{c_{1}}$
+
+The transistor's saturation current is proportional to its emitter area $A_{E}$, therefore it can be obtained using the following formulae:
+
+$$
+\begin{align}
+I_{s} &= I_{so}\dfrac{A}{A_{E}} \\
+A &= 1xA_{E} && I_{s} = I_{so} \\
+I_{C_{2}} &= n_{1}I_{REF} && n_{1} = \dfrac{A_{E_{2}}}{A_{E_{1}}} \\
+I_{C_{3}} &= n_{2}I_{REF} && n_{2} = \dfrac{A_{E_{3}}}{A_{E_{1}}} \\
+\end{align}
+$$
+
 ### Differential Amplifier with Current Source
+
+The differential gain is equal to
+
+$$
+A_{d} = -g_{m}R_{c}
+$$
+
+The common mode gain is equal to
+
+$$
+A_{c} \cong - \dfrac{R_{C}}{2R_{E}}
+$$
+
+Where
+
+$R_{E}=r_{o}\left(1+\dfrac{I_{c_{2}}R_{2}}{V_{T}}\right)$
 
 ### Differential Amplifier with Active Loads
 
+$Q_{1}$ and $Q_{2}$ make up the differential amplifier pare, whereas $Q_{3}$ and $Q_{4}$ comprise the constant current source. On the other hand, $Q_{5}$, $Q_{6}$, and $Q_{7}$ form the active loads
 ### Current Reference
+
+$$
+\begin{align}
+I_{C_{1}} = \frac{V_{EE}-1.4V}{R_{1}} && I_{C_{2}} \cong \frac{V_{T}}{R_{2}}\ln \frac{V_{EE}-1.4V}{I_{S_{1}}R_{1}}
+\end{align}
+$$
+
+The output current is only logarithmically  contingent on the supply voltage $V_{EE}$'s changes.
 
 ## Basic MOS Differential Amplifier
 
