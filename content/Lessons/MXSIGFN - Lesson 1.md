@@ -91,6 +91,7 @@ $V_{o}=(I_{c_{2}}-I_{c_{1}})R_{c}$
 #### Case 1: V1-V2 >> 100 mV
 
 $I_{E_{1}} \approx I_{EE}$, $Q_{1}$ saturates
+
 $I_{E_{2}} \approx 0$, $Q_{2}$ is cut-off
 
 Output is **negative**
@@ -100,6 +101,7 @@ $V_{o} \cong -I_{EE}R_{c}=-V_{sat}$
 #### Case 2: V1-V2 >> -100 mV
 
 $I_{E_{1}} \approx 0$, $Q_{1}$ is cut-off
+
 $I_{E_{2}} \approx I_{EE}$, $Q_{2}$ saturates
 
 Output is **positive**
@@ -122,7 +124,58 @@ $V_{o}=0$
 
 ### Differential Gain
 
+The current passing through $R_{E}$ ($I_{EE}$) is constant when $V_{1}$ and $V_{2}$ are equal but opposite in polarities.[^6] In other words
+
+$$
+\begin{align}
+I_{E_{1}} = \frac{I_{EE}}{2}+\Delta I \\ 
+I_{E_{2}} = \frac{I_{EE}}{2}-\Delta I
+\end{align}
+$$
+
+This implies that the voltage across $R_{E}$ is constant and is a DC source; therefore, it is ignored in AC analysis.
+
+In a transistor small signal equivalent circuit
+
+$$
+\begin{align}
+r_{\pi} = \beta r_{e} && r_{e}=\frac{26mV}{I_{E}}
+\end{align}
+$$
+
+
+> [!NOTE] 
+> The symmetry of the transistors $Q_{1}$ and $Q_{2}$ entails that **half-circuit analysis is enough** for the AC analysis.
+
+Formula for the differential gain:
+
+$A_{d}=\dfrac{V_{o}}{V_{i}}$
+
+
+> [!INFO] Table for Finding the Differential Gain Depending on the case.[^7]
+> 
+> | Case                                      | Formula                                                                                     |
+> | ----------------------------------------- | ------------------------------------------------------------------------------------------- |
+> | Single-ended output                       | $A_{d_{n}}=\dfrac{V_{o_{n}}}{V_{d}}=-\dfrac{R_{c}}{2r_{e}}=-\dfrac{gmR_{c}}{2}$             |
+> | Double-ended output                       | $A_{d}=\dfrac{V_{o}}{V_{d}}=\dfrac{V_{o_{1}}-V_{o_{2}}}{V_{d}}=-\dfrac{R_{c}}{r_{e}}=-gmRc$ |
+> | Double ended output with $r_{o}$ included | $A_{d}=\dfrac{R_{c} //r_{o}}{r_{e}}=-gm(R_{c} // r_{o})$                                    |
+> 
+
 ### Common Mode Gain
+
+- The common mode signal $V_{cm}$ is the result of having the voltage inputs $V_{1}$ and $V_{2}$ have **the same amplitude, frequency signal, and polarity**. For this reason, the two transistors are **virtually in parallel**.
+- When a current change occurs on one of the transistors, the same current change will be experienced by the other transistor, and, as such, will give rise to a **small variation in the voltage** across $R_{E}$.
+- Because of the small voltage variation, $R_{E}$ **remains in the small signal equivalent**.
+- **Half circuit analysis only applies when $R_{E}$ is split**. This is done by getting the parallel equivalent $2R_{E}$.
+
+| Variable                       | Formulas                                                                 |
+| ------------------------------ | ------------------------------------------------------------------------ |
+| Output of the first transistor | $V_{o_{1}}=\beta i_{b} R_{c}$                                            |
+| Common mode signal input       | $V_{cm}=i_{b}r_{\pi}+(\beta+1)i_{b}2R_{E}$                               |
+| Common mode gain               | $A_{C}=\dfrac{-g_{m}R_{C}}{1+2_{g_{m}}R_{E}}\cong-\dfrac{R_{C}}{2R_{E}}$ |
+
+> [!NOTE]-
+> $r_{\pi}=\beta r_{e}$
 
 ### Input Resistance
 
@@ -157,3 +210,7 @@ $V_{o}=0$
 [^4]: Direct coupling allows the transistor to amplify the output while maintaining a balanced DC bias voltage.
 
 [^5]: The quiescent point provides the initial conditions needed to find the steady-state DC voltages and currents.
+
+[^6]: $I_{EE} = I_{E_{1}} + I_{E_{2}}$
+
+[^7]: $n$ refers to the particular transistor. For example, the first half transistor $Q_{1}$ will have $n=1$, while the other half $Q_{2}$ will have $n=2$.
