@@ -96,7 +96,7 @@ $I_{E_{2}} \approx 0$, $Q_{2}$ is cut-off
 
 Output is **negative**
 
-$V_{o} \cong -I_{EE}R_{c}=-V_{sat}$
+$$V_{o} \cong -I_{EE}R_{c}=-V_{sat}$$
 
 #### Case 2: V1-V2 >> -100 mV
 
@@ -106,7 +106,7 @@ $I_{E_{2}} \approx I_{EE}$, $Q_{2}$ saturates
 
 Output is **positive**
 
-$V_{o} \cong -I_{EE}R_{c}=V_{sat}$
+$$V_{o} \cong -I_{EE}R_{c}=V_{sat}$$
 
 #### Case 3: V1=V2
 
@@ -116,7 +116,7 @@ I_{E_{1}}=\frac{I_{EE}}{2}&& \text{and} && I_{E_{2}} = \frac{I_{EE}}{2}
 \end{align}
 $$
 
-$V_{o}=0$ 
+$$V_{o}=0$$
 
 
 > [!INFO] 
@@ -149,7 +149,7 @@ $$
 
 Formula for the differential gain:
 
-$A_{d}=\dfrac{V_{o}}{V_{i}}$
+$$A_{d}=\dfrac{V_{o}}{V_{i}}$$
 
 
 > [!INFO] Table for Finding the Differential Gain Depending on the case.[^7]
@@ -179,13 +179,97 @@ $A_{d}=\dfrac{V_{o}}{V_{i}}$
 
 ### Input Resistance
 
+Differential Mode 
+
+$$
+\begin{align}
+R_{id} &= r_{\pi} &&\text{single-ended} \\
+R_{id} &= 2r_{\pi} &&\text{double-ended}
+\end{align}
+$$
+
+Common Mode
+
+$$
+R_{ic} = 2\beta R_{E}
+$$
+
 ### Output Resistance
+
+The early voltage and the bias current impact the output resistance, thus,
+
+$$
+r_{o} = \dfrac{V_{A}}{I_{E}}
+$$
 
 ### Differential Amplifier with Both Differential and Common Mode
 
-### Common Mode Rejection Ratio (CMRR)
+The output voltage should **include the effects of both the differential input and common mode input** because the actual input can contain common mode signals.
+
+
+> [!TIP]- Recall
+> $V_{d} = V_{1}-V_{2}$
+>
+> $V_{cm} = (V_{1}+V_{2})/2$
+
+
+$$
+\begin{align}
+V_{1}=V_{cm}+\frac{V_{d}}{2} && ; &&V_{2}=V_{cm}-\frac{V_{d}}{2}
+\end{align}
+$$
+$$
+V_{o} = A_{d}V_{d} + A_{cm} V_{cm}
+$$
+
+### Common Mode Rejection Ratio
+
+The Common Mode Rejection Ratio (**CMRR**) indicates how well a differential amplifier can reject signals that are common to the two inputs. It can be obtained using the ratio of the differential gain to the common mode gain:
+
+$$
+CMRR = \dfrac{-\frac{g_{m}R_{c}}{2}}{-\frac{R_{c}}{2R_{E}}}=g_{m}R_{E}
+$$
+
+
+> [!INFO] Improving CMRR
+> - Increasing $I_{E}$
+> 	- **ISSUE:** IC fabrication would not be possible due to the enormous size of the transistor
+> - Increasing $R_{E}$
+> 	- **ISSUE:** $I_{E}$ will decrease, hence $g_{m}$ will also decrease. Although a greater power supply can solve this problem, its portability will be negatively affected.
+> - Utilizing a constant current source with high resistance (e.g., current sources like Widlar, Wilson, and Cascode.)
 
 ### Simple Current Source
+
+Base-emitter loop:
+
+$$V_{BE_{1}}-V_{BE_{2}}=0$$
+
+> [!TIP]- Recall
+> $V_{BE}=V_{T}\ln\dfrac{I_{E}}{I_{s}}$
+
+Substituting to the loop,
+
+$$
+V_{T_{1}}\ln\dfrac{I_{E_{1}}}{I_{s_{1}}} - V_{T_{2}}\ln\dfrac{I_{E_{2}}}{I_{s_{2}}} = 0
+$$
+
+Because the two transistors ($Q_{1}$ and $Q_{2}$) are identical,
+
+$$
+I_{E_{1}} = I_{E_{2}}
+$$
+
+
+> [!TIP]- Recall
+> $I_{E}=(\beta + 1)I_{B}$
+> $I_{B}=\dfrac{I_{E}}{\beta + 1}$
+> $I_{REF}=I_{c_{1}}+I_{B_{1}}+I_{B_{2}} = \dfrac{\beta + 2}{\beta + 1}I_{E}$
+
+Output current is
+
+$$
+I_{out} = \frac{\beta}{\beta + 2} I_{REF}
+$$
 
 ### Widlar Current Source
 
