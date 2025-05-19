@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lessons/DIGDACM - Lesson 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,8 +168,10 @@
   },
   "active": "441cc80cee3ae8f8",
   "lastOpenFiles": [
-    "Lessons/MXSIGFN - Lesson 1.md",
+    "Templates/Callouts.md",
     "Lessons/DIGDACM - Lesson 1.md",
+    "Lessons/FEECONS - Lesson 9.md",
+    "Lessons/MXSIGFN - Lesson 1.md",
     "Lessons/FUNDCKT - Lesson 9.md",
     "Formula Sheets.md",
     "Keywords/Differential amplifiers.md",
