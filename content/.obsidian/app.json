@@ -2,8 +2,9 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "vimMode": true,
-  "livePreview": false,
+  "livePreview": true,
   "attachmentFolderPath": "/",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Keywords"
+  "newFileFolderPath": "Keywords",
+  "propertiesInDocument": "source"
 }

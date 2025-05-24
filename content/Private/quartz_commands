@@ -1,0 +1,19 @@
+---
+title: Quartz Commands
+aliases: []
+tags: [Unpublished]
+---
+
+## Quartz Commands
+
+### See Local Changes
+
+```
+npx quartz build --serve
+```
+
+### Push Updates to the Repository
+
+```
+npx quartz sync
+```
