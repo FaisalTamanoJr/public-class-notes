@@ -131,14 +131,80 @@ Distance is a major limitation for electronic communications because receivers c
 3. Home automation systems
 	- Like Arduino with a communication link to a Bluetooth. This is by using 3 wires that serves as communication interfaces known as *Universal Asynchronous Receiver/Transmitter* (UART).
 4. Drones - uses multiple communication links
-	1. It is embedded system whereby it is controlled wirelessly through controllers (implying that there is a point-to-point communication occurring).
-	2. Drones can also send out video information to goggles, entailing a point-to-point communication occurring between the two.
+	- It is embedded system whereby it is controlled wirelessly through controllers (implying that there is a point-to-point communication occurring).
+	- Drones can also send out video information to goggles, entailing a point-to-point communication occurring between the two.
+5. Motherboards - uses short-distance data communications
+	- All elements are constrained within a single circuit board.
+6. E-Vehicles
+	- Electrical cars have plenty of electronic components that communicate with each other.
+	- Electronic Control Units (ECU) is the primary processor for an electronic vehicle. It ensures that the battery system is operated under safe conditions. Communication is involved whereby ECU regulates the battery system while the battery system informs it.
+7. E-Vehicle charging
+	- Communication between the charger and battery system is necessary to ensure safety.
+8. Transportation system communications
+	- A smart traffic management system is integrated with the vehicles. Intelligent devices must, however, be installed within these vehicles in order to facilitate communication between the two.
 
 > [!INFO] 2.4 and 5 GHz
 > 2.4 and 5 GHz are frequencies used for internet and drone applications because they are public bands. This means that a government license is not required to operate devices using those frequencies.
+
+## Multipoint Communication System
+
+Plenty of point-to-point communications are established to allow devices to communicate with the internet. The internet can be represented as a wide area network (WAN)  which is connected to multiple local area networks (LAN), each handling a single or multiple devices. In other words, ==the internet is a transmission system responsible for interconnecting smaller networks together.==
+
+
+> [!NOTE] 
+> The WAN is also composed of multiple point-to-point links
+
+
+| Type of Internet Connection Method | Connection Type                                              |
+| ---------------------------------- | ------------------------------------------------------------ |
+| Ethernet                           | Is **indirectly** connected to the internet using the router |
+| Private Wi-Fi                      | Is **indirectly** connected to the internet using the router |
+| ASDL/Fibre/Cable Router            | Is **directly** connected to the internet                    |
+| Public-Wifi                        | Is **directly** connected to the internet                    |
+| 3G/4G                              | Is **directly** connected to the internet                    |
+
+- What can be transmitted to the internet?[^4]
+	- Voice
+	- Video
+	- Files
+	- Text 
+	- Images
+- Data can be transmitted in either[^5]
+	- **Series:**  Only uses a single channel and, as such, multiple pieces of information is transmitted one at a time
+	- **Parallel:** Pieces of information are transferred over multiple channels at the same time. Higher performance costs are exchanged for higher transfer speed.
+- Data can be transmitted
+	- **Synchronously:** Time interval between the first and last bit is the same since they follow the clock circuit's timing.
+	- **Asynchronously:** Does not strictly follow timing—pausing can occur and it can occur irregularly and indefinitely.
+- Direction of Transmission Flow
+	- **Simplex:** Only one direction of transmission (e.g. mainframe to monitor only).
+	- **Half-Duplex:** Direction can change (e.g. two workstations communicating wherein computer 1 can send first then computer 2 can send afterwards).
+	- **Full-Duplex:** Direction can be both (e.g. two workstations can be both sending and receiving at the same time).
+
+## Analog Vs Digital
+
+- Analog Communication
+	- Has infinite number of levels (continuous) between two different voltages. For this reason, it uses *analog techniques*.
+- Digital Communication
+	- Has a discrete number of levels between two different voltages. For this reason, it is limited to *digital techniques*.
+	- Advantages over analog:
+		- It is **immune to noise** due to the how their signal operates.[^6]
+		- It is **amenable to signal regeneration** with a repeater.[^7]
+		- Better for multiplexing and allows for shared communication resources
+		- Can facilitate storage and retrieval
+			- Allows buffering—the temporary storage of information due to delayed processing.
+		- Transmission speed can be adjusted
+			- Analog communications, on the other hand, can only be in real-time. This is because it is incapable of performing *store and forward*.
 
 [^1]: For water communication to occur, you must be able to generate voice signals under water by vibrating the medium using your vocal cords. We normally communicate using air as the medium by modulating air pressure (compressing and expanding the surrounding air molecules). In the context of underwater communication, we can not easily generate voice signals underwater because of its effect on our capacity to breathe. 
 
 [^2]: The tin can telephone was a longer distance communication method whereby voice signals passed to the tin can is translated to mechanical signals for transfer. When the mechanical signal reaches the other end, it is converted back to a voice signal for the other party to listen the transferred information. It is important to note that the only difference between mechanical vibration and voice signals here is the *material*—mechanical vibration involved metal, whereas voice signals was through air.
 
 [^3]: The PC will be used to design the program for the Arduino to execute.
+
+[^4]: It is still necessary to convert them to digital signals first before you can transmit them.
+
+[^5]: Modern systems often use series over parallel because of the problems associated with parallel
+
+[^6]: In contrast to analog signal, noise which superimposes over the signal are easily ignored because the conversion process only needs to distinguish between high and low signals. Any noise which are lower than the high signal will not be interpreted as high (unless the noise is very high). 
+
+[^7]: Analog repeaters amplify analog signals when it diminishes in order to extend the distance of the analog signals. As a result, it also amplifies the noise. In contrast, digital repeaters can transmit the diminishing digital signal over a greater distance without amplifying noise because it only has to distinguish between high and low (it can easily ignore the noise and reproduce the signal without noise, whereas analog repeaters transmit signals with noise embedded).

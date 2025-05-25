@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards.md",
+                "file": "Lessons/DIGDACM - Lesson 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flashcards"
+              "title": "DIGDACM - Lesson 1"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "27705e0a5e11f7d8",
   "lastOpenFiles": [
+    "Flashcards.md",
     "index.md",
     "Formula Sheets.md",
     "Lessons/DIGDACM - Lesson 1.md",
