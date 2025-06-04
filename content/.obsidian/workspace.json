@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/DIGDACM - Lesson 2.md",
+                "file": "Keywords/MXSIGFN - Lesson 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIGDACM - Lesson 2"
+              "title": "MXSIGFN - Lesson 2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4aaba802e6d2f65c",
@@ -169,13 +170,14 @@
   },
   "active": "4aee6471f392d133",
   "lastOpenFiles": [
-    "Lessons/DIGDACM - Lesson 1.md",
+    "Lessons/MXSIGFN - Lesson 1.md",
+    "Keywords/MXSIGFN - Lesson 2.md",
     "Lessons/DIGDACM - Lesson 2.md",
+    "Lessons/DIGDACM - Lesson 1.md",
     "Lessons/LCASEAN - Lesson 1.md",
     "Flashcards.md",
     "index.md",
     "Formula Sheets.md",
-    "Lessons/MXSIGFN - Lesson 1.md",
     "Lessons/MXSIGFN - Lesson 2.md",
     "Templates/Callouts.md",
     "Lessons/FEECONS - Lesson 9.md",
