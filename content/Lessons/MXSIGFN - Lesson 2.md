@@ -9,7 +9,7 @@ TODO
 
 ## Sources
 
-1. Differential Amplifiers (Lecture Slides)
+1. Introduction to Operational Amplifiers (Lecture Slides)
 
 ## Operational Amplifiers
 
