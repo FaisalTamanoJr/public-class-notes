@@ -7,7 +7,7 @@ date: 2025-06-02, 09:02
 
 ## Sources
 
-1. Data Communication System Overview (Lecture Slides)
+1. Signal and Transmission Media Characterization (Lecture Slides)
 2. Class lecture
 
 ## Signals

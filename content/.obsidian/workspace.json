@@ -11,14 +11,10 @@
             "id": "9df738f125dad36f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/MXSIGFN - Lesson 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MXSIGFN - Lesson 2"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "duty cycle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,18 +164,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9df738f125dad36f",
+  "active": "075ca6354d608985",
   "lastOpenFiles": [
-    "Keywords/MXSIGFN - Lesson 3.md",
-    "Lessons/MXSIGFN - Lesson 2.md",
-    "Lessons/MXSIGFN - Lesson 1.md",
     "Lessons/DIGDACM - Lesson 2.md",
     "Lessons/DIGDACM - Lesson 1.md",
+    "Lessons/DIGDACM - Lesson 4.md",
+    "Lessons/MXSIGFN - Lesson 2.md",
+    "Keywords/MXSIGFN - Lesson 3.md",
+    "Lessons/MXSIGFN - Lesson 1.md",
     "Lessons/LCASEAN - Lesson 1.md",
     "Flashcards.md",
     "index.md",
     "Formula Sheets.md",
-    "Lessons/MXSIGFN - Lesson 2.md",
     "Templates/Callouts.md",
     "Lessons/FEECONS - Lesson 9.md",
     "Lessons/FUNDCKT - Lesson 9.md",
