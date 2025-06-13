@@ -1,5 +1,5 @@
 ---
-title: DIGDACM - Lesson 4
+title: Digital Signal Transmission Basics
 draft: false
 tags: [DIGDACM]
 date: 2025-06-12, 19:31

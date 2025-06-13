@@ -11,10 +11,14 @@
             "id": "9df738f125dad36f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/DIGDACM - Lesson 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DIGDACM - Lesson 4"
             }
           }
         ]
@@ -75,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4aaba802e6d2f65c",
@@ -164,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "075ca6354d608985",
+  "active": "9df738f125dad36f",
   "lastOpenFiles": [
     "Lessons/DIGDACM - Lesson 2.md",
     "Lessons/DIGDACM - Lesson 1.md",
