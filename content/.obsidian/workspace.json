@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/DIGDACM - Lesson 4.md",
-                "mode": "source",
+                "file": "Lessons/MICPROS - Lesson 1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIGDACM - Lesson 4"
+              "title": "MICPROS - Lesson 1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duty cycle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4aaba802e6d2f65c",
@@ -171,9 +169,10 @@
   },
   "active": "9df738f125dad36f",
   "lastOpenFiles": [
+    "Lessons/DIGDACM - Lesson 4.md",
+    "Lessons/MICPROS - Lesson 1.md",
     "Lessons/DIGDACM - Lesson 2.md",
     "Lessons/DIGDACM - Lesson 1.md",
-    "Lessons/DIGDACM - Lesson 4.md",
     "Lessons/MXSIGFN - Lesson 2.md",
     "Keywords/MXSIGFN - Lesson 3.md",
     "Lessons/MXSIGFN - Lesson 1.md",
