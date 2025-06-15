@@ -5,6 +5,11 @@ tags: [DIGDACM]
 date: 2025-06-02, 09:02
 ---
 
+
+> [!WARNING] TODO
+> Will rewrite/review
+
+
 ## Sources
 
 1. Signal and Transmission Media Characterization (Lecture Slides)

@@ -5,6 +5,11 @@ tags: [DIGDACM]
 date: 2025-06-12, 19:31
 ---
 
+
+> [!WARNING] TODO
+> Slides 30-40
+
+
 ## Sources
 
 1. (Lecture Slides) Digital Signal Transmission Basics
