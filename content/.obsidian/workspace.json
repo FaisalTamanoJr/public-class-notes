@@ -6,6 +6,7 @@
       {
         "id": "59e8445e147360af",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "9df738f125dad36f",
@@ -14,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lessons/DIGDACM - Lesson 5.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "de facto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4aaba802e6d2f65c",
@@ -161,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,9 +171,10 @@
   },
   "active": "9df738f125dad36f",
   "lastOpenFiles": [
-    "Lessons/DIGDACM - Lesson 4.md",
+    "Lessons/CONETSC - Lesson 1.md",
     "Lessons/DIGDACM - Lesson 5.md",
     "Lessons/DIGDACM - Lesson 1.md",
+    "Lessons/DIGDACM - Lesson 4.md",
     "Lessons/DIGDACM - Lesson 3.md",
     "Lessons/DIGDACM - Lesson 2.md",
     "Lessons.md",
