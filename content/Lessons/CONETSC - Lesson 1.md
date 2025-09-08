@@ -20,7 +20,7 @@ date: 2025-09-06, 22:28
 - It is composed of countless computing devices known as the **hosts** or the **end systems**. They are referred to as hosts or end systems because of their location: the edge of a network.
 - **Communication links** and **packet switches** are key components that are responsible for connecting end systems to the network
 	- communication links - correspond to physical media like a UTP copper cable, optical fiber, coaxial table, satellite,[^7] or wireless (through radiospectrum). Choosing the right physical media is important because it determines the **data transmission rate**[^8]
-		- When the sending end system has no data to send to another end system, it segments the data and adds two bytes of **headers** and **trailers** per segment.[^1]
+		- The sending end system segments the data to be sent and adds two bytes of **headers** and **trailers** per segment.[^1]
 			- headers and trailers are used to ensure synchronization[^2]
 		- Data is transmitted in the form of electromagnetic signals
 		- The physical media chosen should be able to accommodate the amount of data to be sent
