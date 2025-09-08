@@ -44,3 +44,8 @@ Personality are features that make individuals unique through their views and ap
 [^1]: The characteristics of each individual group member does not necessarily characterize the group.
 [^2]: For example, it might be better to combine each stick of a broomstick into one and let one person clean the room than each person having a single stick and tasking them to clean the room.
 [^3]: For example, water is stronger when its molecule is broken down into two elements (i.e., it produces two powerful gases).
+
+## Sources
+
+1. Lecture slides
+2. Class lecture
