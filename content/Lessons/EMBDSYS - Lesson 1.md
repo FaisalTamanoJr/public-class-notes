@@ -5,10 +5,6 @@ tags: [EMBDSYS]
 date: 2025-09-08, 15:16
 ---
 
-> [!NOTE] TODO
-> 1. [x] Part 1 (until page 23)
-> 2. [ ] Part 2 (until page 41)
-
 ## Sources
 
 1. Class lecture
@@ -17,9 +13,18 @@ date: 2025-09-08, 15:16
 ## Introduction
 
 - An **embedded system** is hardware combined with a software with either fixed or programmable capability. It is *embedded* because it is often found inside a product, like in cars, trains, elevators, etc.
-	- hardware - components that controller monitors and controls
-	- software - programs that command the controller what to monitor and how to control
-- It can designed to perform a specific function or it can be made to be a part of a larger system.
+	- **hardware** - components that controller monitors and controls
+	- **software** - programs that command the controller what to monitor and how to control
+- It is a microprocessor or microcontroller that can be designed to perform a specific function or be made to be a part of a larger system.
+- An **embedded computer system** is a programmable computer that is not general-purpose.[^5]
+
+> [!EXAMPLE]- Examples of Embedded Computers
+> - Cell phone
+> - Printer
+> - Automobile: engine, brakes, dash, etc.
+> - Airplane: engine, flight controls, and navigation/communication
+> - Digital TV
+> - Household appliances
 
 ## History
 
@@ -41,7 +46,7 @@ date: 2025-09-08, 15:16
 - Runs in *real-time*
 - Minimal user interface
 - Limited memory (no secondary memory), less power consumption, and low cost
-- They have chips
+- All of them have chips—either microprocessor or microcontroller—with code that governs the system.
 
 ## Typical Embedded System Structure
 
@@ -80,3 +85,42 @@ date: 2025-09-08, 15:16
 | Cypress Semiconductor   | - They are currently acquired by Infineon Technologies<br><br>- They were known for microcontrollers which included the **PSoC** (Programmable System-on-Chip) family. These microcontrollers were highly customizable and flexible due to their integrated programmable analog and digital blocks |
 | Espressif Systems       | They offered the **ESP8266** and **ESP32**, which were popular because they were Wi-Fi and Bluetooth modules and SoCs that had built-in wireless connectivity (ideal for IoT applications)                                                                                                         |
 | Freescale Semiconductor | They offered the **ColdFire** and **Kinetis** microcontroller families. These were used for applications including automotive to industrial control.                                                                                                                                               |
+
+## Applications of Microcontrollers
+
+Microcontrollers are embedded in devices for control. They are involved in the following areas:
+
+- Educational robotics
+- Research robots
+- Helpful robots
+- High-tech and aerospace use
+- Process control and technical education
+- Government/Peripherals office automation
+- Industrial control
+- Communications/Telecommunications networking
+- Automotive/Transportation systems and equipment
+- Consumer electronics/entertainment multimedia
+- Electronic instruments/ATE/design and test equipment
+
+## Types of Microprocessors
+
+1. **Microcontroller**, which includes I/O devices and on-board memory
+2. **Digital Signal Processor** (DSP), which are microprocessors tailored for digital signal processing
+	- Requires external memory
+	- Contains **Multiply-Accumulate** (MACs) units
+3. Typical embedded word sizes: 8-bit, 16-bit, 32-bit
+
+## Automotive Embedded Systems
+
+- High-end cars may have 100 microprocessors, whereas low-end ones use 20+.
+	- 4-bit microcontroller checks seat belt
+	- 16/32-bit microprocessor controls engine
+- *BMW 850i* brake and stability control system is comprised of the two:
+	- **Anti-lock brake system (ABS)** - pumps brakes to minimize skidding
+	- **Automatic stability control (ASC+T)** - controls engine for improving stability
+
+[^5]: For this reason, PCs are not considered *embedded computer systems* despite being an essential component for producing embedded computing systems. On the other hand, a fax machine or clock made using a microprocessor is considered an embedded computing system.
+[^3]: It is connected to the actuator through the **Electromechanical Backup and Safety**
+[^2]: It communicates with a component outside of the microcontroller: software
+[^1]: It has parts that it communicates with outside of the microcontroller, particularly the **human interface**, **diagnostic tools**, and **auxiliary systems** (for power and cooling)
+[^4]: It is connected to the sensors through the **external environment**
