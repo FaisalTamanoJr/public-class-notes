@@ -2,7 +2,7 @@
 title: Introduction to Computer Networks
 draft: false
 tags: [CONETSC]
-date: 2025-09-06, 22:28
+date: 2025-09-15, 02:16
 ---
 
 ## Sources
@@ -16,11 +16,16 @@ date: 2025-09-06, 22:28
 
 ## Fundamental View of the Internet (or **Hardware and Software** View)
 
-- **Internet** is a loosely hierarchical network of networks
+- **Internet** is a loosely hierarchical network of networks, comprising of interconnected ISPs
+- A **network** refers to the whole set of connected devices, routers, and links. Organizations are responsible for managing different networks.
+- **Internet Service Providers** (ISPs) connect devices to content providers
 - It is composed of countless computing devices known as the **hosts** or the **end systems**. They are referred to as hosts or end systems because of their location: the edge of a network.
+	- Hosts are specifically the clients and servers
+- **Peering** is the process where an ISP connects to another ISP to access content providers that they do not have a direct connection with
 - **Communication links** and **packet switches** are key components that are responsible for connecting end systems to the network
 	- communication links - correspond to physical media like a UTP copper cable, optical fiber, coaxial table, satellite,[^7] or wireless (through radiospectrum). Choosing the right physical media is important because it determines the **data transmission rate**[^8]
-		- The sending end system segments the data to be sent and adds two bytes of **headers** and **trailers** per segment.[^1]
+		- **physical media** and **access networks** can be wired or wireless communication links
+		- When the sending end system has no data to send to another end system, it segments the data and adds two bytes of **headers** and **trailers** per segment.[^1]
 			- headers and trailers are used to ensure synchronization[^2]
 		- Data is transmitted in the form of electromagnetic signals
 		- The physical media chosen should be able to accommodate the amount of data to be sent
@@ -34,6 +39,7 @@ date: 2025-09-06, 22:28
 	- Routers are primarily used to examine the headers and addressing of incoming packets and forward it to an outbound link.
 - **Route** or **path** refers to the communication links and switches that the packet needs to traverse to reach its desired endpoint
 - **Protocols** controls how messages are received and sent. They are necessary for establishing consistent communication quality by defining specific standards. Moreover, it also ensures *interoperability*—the characteristic of a system to properly work with other systems.
+	- In particular, they define the format, order of messages sent and received, receipt, and actions taken during message transmission.
 	- Examples are HTTP, TCP, IP, FTP, and PPP
 	- 2 most important internet protocols
 		1. **Internet Protocol** (IP) - specifies the packet format. The format allows the switches in its path to identify it.
@@ -41,6 +47,9 @@ date: 2025-09-06, 22:28
 	- HTTP (Hyper Text Transfer Protocol) - used for accessing the web
 	- FTP (File Transfer Protocol) - for file transfer
 	- SMTP (Small Mail Transfer Protocol) - for sending and receiving emails
+	- **IEEE 802.11** - the Wi-Fi or wireless protocol
+	- **IEEE 802.15** - the Bluetooth protocol
+	- IEEE 802.15.4 - the Zigbee protocol
 - Internet standards
 	- Standards are usually in the form of **RFCs** (Request for Comments) and are developed by the **IETF** (Internet Engineering Task Force)
 	- IETF - are a group of engineers and researchers from the academe and industry which develop standards for the internet
@@ -51,9 +60,12 @@ date: 2025-09-06, 22:28
 ## **Service** View of the Internet
 
 - **Communication infrastructure** enables distributed applications such as the web, email, messaging, social media, etc.[^10]
-	- Note that ==applications run on end systems== and not on the **network core** (i.e., switches like routers and link layer switches)
+	- Note that ==applications run on end systems== and not on the **network core** (i.e., internal components of the internet like switches, routers, and link layer switches)
+	- The **network core** are interconnected routers that make up the network of networks
 - When developing a distributed application, the application should have instructions revolving around how the end system connects to the internet and how it can access content from a particular server. **API** (Application Programming Interface) is a platform that facilitates this process.[^11]
-	- APIs also specify rules so that the sender can deliver information to a desired receiver
+	- APIs also specify rules so that the sender can deliver information to a desired receiver. In other words, it provides services to allow us to interact with the internet.
+	- **hooks** - enables data delivery and reception
+	- **connect** - the use of the internet transport service
 - Communication services provided to apps can be of two modes:
 	- connection-oriented reliable
 	- connectionless unreliable
@@ -63,7 +75,7 @@ date: 2025-09-06, 22:28
 [^1]: headers are placed at the *MSB* (most significant bit), while trailers are placed at the *LSB* (least significant bit)
 [^2]: For instance, parity bits for headers
 [^5]: These are used in LAN (local-area network) applications
-[^6]: These have larger scale application compared to link layer switches (e.g., ISPs)
+[^6]: These have larger scale application compared to link layer switches (e.g., ISPs and wide-area networks)
 [^9]: A weaker signal energy is undesirable because it can prevent the information from reaching its destination
 [^3]: Segments exists after headers and trailers are connected with the bits
 [^4]: **Addressing** are added to packets to identify the desired destination. An example of addressing is IP (or logical addressing)
