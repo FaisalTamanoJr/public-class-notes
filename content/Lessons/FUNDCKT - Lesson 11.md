@@ -85,9 +85,6 @@ Types of currents
 > [!NOTE]
 > We can assume $Z_{Y}=Z_{L}$ when there is no source or line impedance.
 
-> [!SUMMARY] Summary of Formulas (Assuming a Positive Sequence)
-> ![Summary of Balanced Three Phase Voltages](https://web.archive.org/web/20240805093712if_/https://1.bp.blogspot.com/-A-vWSfmskwM/XnNh7Pyl7CI/AAAAAAAAFcY/GUEFT6SRlcA2npLg01ZkRfC4_b7kUlbpACLcBGAsYHQ/s640/t1_balanced_three_phase_voltages.jpg)
-
 ## Balanced Wye-Wye Connection
 
 1. $V_{L}=\sqrt{ 3 }V_{p}$
