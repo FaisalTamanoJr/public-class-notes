@@ -198,8 +198,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        My Personal Website: https://faisals-notebook.pages.dev/
+        Github: https://github.com/faisaltamanojr
+        Facebook: https://www.facebook.com/profile.php?id=100010137169703
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
