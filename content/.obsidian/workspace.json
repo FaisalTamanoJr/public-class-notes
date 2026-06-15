@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/DSIGPRO - Lesson 5.md",
+                "file": "Lessons/CONETSC - Lesson 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSIGPRO - Lesson 5"
+              "title": "CONETSC - Lesson 1"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/OPESSYS - Lesson 1.md",
+                "file": "Lessons/DSIGPRO - Lesson 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OPESSYS - Lesson 1"
+              "title": "DSIGPRO - Lesson 5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "4aaba802e6d2f65c",
@@ -184,17 +184,17 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "9df738f125dad36f",
+  "active": "071732f41e7b1f08",
   "lastOpenFiles": [
-    "Lessons/OPESSYS - Lesson 1.md",
+    "Lessons/CONETSC - Lesson 1.md",
     "Lessons/DSIGPRO - Lesson 5.md",
+    "Lessons/OPESSYS - Lesson 1.md",
+    "Lessons.md",
     "Templates/Problem.md",
     "Templates/up arrow.md",
     "Lessons/Untitled.md",
     "index.md",
     "Formula Sheets.md",
-    "Lessons.md",
-    "Lessons/CONETSC - Lesson 1.md",
     "Templates/zCitations Template.md",
     "Lessons/FUNDCKT - Lesson 11.md",
     "Lessons/DIGDACM - Lesson 5.md",

@@ -2,7 +2,7 @@
 title: Direct Z Transform
 draft: false
 tags: [DSIGPRO]
-date: 2026-06-15
+date: 2026-06-15, 21:45
 ---
 
 ## Sources
@@ -47,6 +47,9 @@ Region of Convergence (ROC): Entire z-plane
 > x_{2}[n] = \{1,2,\underset{\uparrow}5,7,0,1\}
 > $$
 
+$$
+\boxed{X_{2}(z) = z^2 + 2z + 5 + 7z^{-1} + z^{-3}}
+$$
 ### C.
 
 > [!INFO] Problem
@@ -55,6 +58,11 @@ Region of Convergence (ROC): Entire z-plane
 > x_{3}[n] = \{\underset{\uparrow}0,0,1,2,5,7,0,1\}
 > $$
 
+$$
+\boxed{X_{3}(z) = z^{-2} + 2z^{-3} + 5z^{-4} + 7z^{-5} + z^{-7}}
+$$
+
+ROC: entire z-plane except $z=0$
 
 ### E.
 
