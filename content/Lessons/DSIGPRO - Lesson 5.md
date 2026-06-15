@@ -87,8 +87,8 @@ ROC: entire z-plane
 
 $$
 \begin{align}
-X_{5}(z) &=\sum^{\infty}_{-\infty}\delta(n-k)z^{-n} \\
-&=s[0]z^{-k}
+X_{5}(z) &=\sum^{\infty}_{-\infty}\delta[n-k]z^{-n} \\
+&=\delta[0]z^{-k}
 \end{align}
 $$
 
