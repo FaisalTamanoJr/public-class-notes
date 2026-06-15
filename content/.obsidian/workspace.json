@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "59e8445e147360af",
+        "id": "435a27c562f0e7b0",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Citations Template.md",
+                "file": "Lessons/DSIGPRO - Lesson 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Citations Template"
+              "title": "DSIGPRO - Lesson 5"
+            }
+          },
+          {
+            "id": "071732f41e7b1f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/OPESSYS - Lesson 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OPESSYS - Lesson 1"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "4aaba802e6d2f65c",
@@ -165,19 +180,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "4e3688a278fa76c6",
+  "active": "9df738f125dad36f",
   "lastOpenFiles": [
-    "Lessons/FUNDCKT - Lesson 11.md",
+    "Lessons/OPESSYS - Lesson 1.md",
+    "Lessons/DSIGPRO - Lesson 5.md",
+    "Templates/Problem.md",
+    "Templates/up arrow.md",
+    "Lessons/Untitled.md",
+    "index.md",
+    "Formula Sheets.md",
+    "Lessons.md",
     "Lessons/CONETSC - Lesson 1.md",
+    "Templates/zCitations Template.md",
+    "Lessons/FUNDCKT - Lesson 11.md",
     "Lessons/DIGDACM - Lesson 5.md",
     "Lessons/DIGDACM - Lesson 1.md",
     "Lessons/DIGDACM - Lesson 4.md",
     "Lessons/DIGDACM - Lesson 3.md",
     "Lessons/DIGDACM - Lesson 2.md",
-    "Lessons.md",
     "Lessons/FEECONS - Lesson 11.md",
     "Lessons/MICPROS - Lesson 1.md",
     "Lessons/MXSIGFN - Lesson 2.md",
@@ -185,14 +209,8 @@
     "Lessons/MXSIGFN - Lesson 1.md",
     "Lessons/LCASEAN - Lesson 1.md",
     "Flashcards.md",
-    "index.md",
-    "Formula Sheets.md",
-    "Templates/Callouts.md",
+    "Templates/zCallouts.md",
     "Lessons/FEECONS - Lesson 9.md",
-    "Lessons/FUNDCKT - Lesson 9.md",
-    "Keywords/Differential amplifiers.md",
-    "Keywords/MXSIGFN - Lesson 1.md",
-    "Lessons/NUMMETS - Lesson 7.md",
-    "Lessons/OPESSYS - Lesson 1.md"
+    "Lessons/FUNDCKT - Lesson 9.md"
   ]
 }
