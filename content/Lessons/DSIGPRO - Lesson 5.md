@@ -331,7 +331,7 @@ $$
 > [!WARNING] 
 > I get the feeling that the reference is incomplete for this one, so I'm guessing that **this is not the final answer yet**
 
-## Example 5
+## Example 5 - Time Shifting
 
 
 > [!INFO] Problem 5
@@ -512,7 +512,7 @@ X(z) = \frac{1}{1-2z}\text{, }|z|< \frac{1}{2}
 }
 $$
 
-## Example not in the slides 2 - Convolution of Two Sequences
+## Example not in the slides 3 - Convolution of Two Sequences
 
 
 > [!INFO] Problem
