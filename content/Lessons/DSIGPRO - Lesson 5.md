@@ -11,7 +11,7 @@ date: 2026-06-15, 21:45
 1.  DirectZTransform (Lecture Slides)
 2. Lecture Notes
 
-## Example 1
+## Example 1 - Region of Convergence Part 1
 
 > [!INFO] Problem 1.a.
 > $$
@@ -107,7 +107,7 @@ $$
 $$
 \boxed{X_{6}{(z)} = z^{k},\text{ }k>0}
 $$
-## Example 2
+## Example 2 - Region of Convergence Part 2
 
 
 > [!INFO] Problem 2.a.
@@ -238,7 +238,7 @@ X(z) = \frac{1}{1-\alpha z^{-1}} &- \frac{1}{1-bz^{-1}} & |\alpha| < |z| < |b|
 \end{align*}
 $$
 
-## Example 3
+## Example 3 - Linearity Part 1
 
 
 > [!INFO] Problem
@@ -292,7 +292,7 @@ ROC: $|z|>3$
 > ROC: $|z|<min\{P_{1},P_{2},\dots,P_{n}\}$
 > 
 
-## Example 4
+## Example 4 - Linearity Part 2
 
 
 > [!INFO] Problem 4.a. 
@@ -327,9 +327,69 @@ X(z)&=\frac{1}{2} \frac{1}{1-e^{j\omega_{0}}z^{-1}} + \frac{1}{2} \frac{1}{1-e^{
 \end{align*}
 $$
 
-## Example 7
 
-> [!INFO] Problem 7
+> [!WARNING] 
+> I get the feeling that the reference is incomplete for this one, so I'm guessing that **this is not the final answer yet**
+
+## Example 6 - Scaling in the Z-Domain
+
+
+> [!INFO] Problem 6.a.
+> $$
+> x[n] = a^n\cos(\omega_{0}n)u[n] 
+> $$
+
+$$
+\begin{align*}
+\text{let } x_{1}[n] &= \cos(\omega_{0}n)u[n] \\
+X_{1}(z) &= \frac{1-z^{-1}\cos(\omega_{0})}{1-2z^{-1}\cos(\omega_{0})+z^{-2}}, &|z|>1
+\end{align*}
+$$
+
+$$
+\begin{align*}
+X(z) &= X_{1}(a^{-1}z) \\
+&= \frac{1-(a^{-1}z)^{-1}\cos(\omega_{0})}{1-2(a^{-1}z)\cos(\omega_{0})+(\alpha^{-1}z)^{-2}}
+\end{align*}
+$$
+
+$$
+\boxed{X(z)=\frac{1-az^{-1}\cos(\omega_{0})}{1-2az^{-1}\cos(\omega_{0})+a^2z^{-2}}\text{, }|z|>|a|}
+$$
+
+> [!INFO] Problem 6.b.
+> $$
+> x[n] = a^n\sin(\omega_{0}n)u[n] 
+> $$
+
+$$
+\begin{align*}
+\text{let } x_{1}[n]  &= \sin(\omega_{0}n)u[n] \\
+X_{1}(z) &= \frac{z^{-1}\sin(\omega_{0})}{1-2z^{-1}\cos(\omega_{0})+z^{-2}} \text{, }|z|>1
+\end{align*}
+$$
+
+$$
+\begin{align*}
+X(z) &= X(a^{-1}z) \\
+&= \frac{(a^{-1}z)^{-1}\sin(\omega_{0})}{1-2(a^{-1}z)^{-1}\cos(\omega_{0})+(a^{-1}z)^{-2}} \text{}
+\end{align*}
+$$
+
+$$
+\boxed{X(z)=\frac{az^{-1}\sin(\omega_{0})}{1-2az^{-1}\cos(\omega_{0})+a^{2}z^{-2}} \text{, }|z|>|a|}
+$$
+
+## Example 8 - Differentiation in the Z-Domain
+
+> [!INFO] Problem 8
+> $$
+> x[n] = na^{n}u[n]
+> $$
+
+## Example not in the slides 1 - Time Shifting
+
+> [!INFO] Problem
 >
 > $$
 > x[n] = \left( \frac{1}{2} \right)^n u[n-2]
@@ -354,3 +414,22 @@ $$
 \end{align*}
 }
 $$
+
+## Example not in the slides 2 - Time Reversal
+
+
+> [!INFO] Problem
+> $$
+> x[n] = u[-n]
+> $$
+
+## Example not in the slides 2 - Convolution of Two Sequences
+
+
+> [!INFO] Problem
+> $$
+> \begin{align*}
+> x_{1}[n] &= \{\underset{\uparrow}1,2,1\} \\
+> x_{2}[n] &= \{\underset{\uparrow}1,1,1,1,1,1\}
+> \end{align*}
+> $$
