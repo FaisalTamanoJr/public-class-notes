@@ -68,7 +68,7 @@ X(z) &= \frac{-1}{1-0.5z^{-1}}+\frac{2}{1-z^{-1}}
 \end{align*}
 $$
 
-### A.) ROC: |z| > 1 (Causal)
+### a.) ROC: |z| > 1 (Causal)
 
 $$
 \boxed{
@@ -79,13 +79,13 @@ x[n] &= -(0.5)^nu[n]+2(1)^nu[n] \\
 }
 $$
 
-### B.) ROC: |z| < 0.5 (Anticausal)
+### b.) ROC: |z| < 0.5 (Anticausal)
 
 $$
 \boxed{x[n]=(0.5)^nu[-n-1]-2u[-n-1]}
 $$
 
-### C.) ROC: 0.5 < |z| < 1 (Noncausal)
+### c.) ROC: 0.5 < |z| < 1 (Noncausal)
 
 $$
 \boxed{

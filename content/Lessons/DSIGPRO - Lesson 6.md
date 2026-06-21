@@ -125,7 +125,7 @@ $$
 > 
 > c.) Is the system stable?
 
-### Transfer Function
+### a.) Transfer Function
 
 $$
 H(z) = \frac{Y(z)}{X(z)}
@@ -157,7 +157,7 @@ H(z) = \frac{1-\frac{1}{2}z^{-1}}{\left( 1-\frac{1}{3}z^{-1} \right)\left( 1-\fr
 }
 $$
 
-### Difference Equation
+### b.) Difference Equation
 
 $$
 H(z) = \frac{Y(z)}{X(z)} = \frac{1-\frac{1}{2}z^{-1}}{1-\frac{7}{12}z^{-1}+\frac{1}{12}z^{-2}}
@@ -181,7 +181,7 @@ y[n]=\frac{7}{12}y[n-1]-\frac{1}{12}y[n-2]+x[n]-\frac{1}{2}x[n-1]
 }
 $$
 
-### Is the system causal and stable
+### c.) Is the system causal and stable
 
 ROC: $|z| > \frac{1}{3}$
 
