@@ -120,7 +120,9 @@ $$
 > $$
 > 
 > a.) Does $H(z)$ satisfy the foregoing conditions?
+> 
 > b.) What is the difference equation that describe this system?
+> 
 > c.) Is the system stable?
 
 ### Transfer Function
