@@ -19,8 +19,11 @@ date: 2026-06-18, 22:00
 > $$
 > X(z)=\frac{1}{1-1.5z^{-1}+0.5z^{-2}}
 > $$
+>
 > a.)  $\text{ROC: }|z|>1$
+>
 > b.) $\text{ROC: }|z|<0.5$
+>
 > c.) $\text{ROC: }0.5<|z|<1$
 
 Positive power of $z$
