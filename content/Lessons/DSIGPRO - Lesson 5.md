@@ -8,7 +8,7 @@ date: 2026-06-15, 21:45
 
 ## Sources
 
-1.  DirectZTransform (Lecture Slides)
+1.  DirectZTransform (Lecture Slides & Annotations)
 2. Lecture Notes
 
 ## Example 1 - Region of Convergence Part 1
@@ -450,8 +450,8 @@ $$
 
 $$
 \begin{align*}
-X(z)&= z\left\{\left( \frac{1}{2} \right)^2 \left( \frac{1}{2} \right)^{n-2}u[n-2]\right\} \\
-&=z\left\{\frac{1}{4}\left( \frac{1}{2} \right)^{n-2} u[n-2]\right\} \\
+X(z)&= Z\left\{\left( \frac{1}{2} \right)^2 \left( \frac{1}{2} \right)^{n-2}u[n-2]\right\} \\
+&=Z\left\{\frac{1}{4}\left( \frac{1}{2} \right)^{n-2} u[n-2]\right\} \\
 &=\frac{1}{4}z^{-2}X_{1}(z)
 \end{align*}
 $$
