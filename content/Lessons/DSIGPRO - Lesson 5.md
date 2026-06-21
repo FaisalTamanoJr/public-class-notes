@@ -331,6 +331,33 @@ $$
 > [!WARNING] 
 > I get the feeling that the reference is incomplete for this one, so I'm guessing that **this is not the final answer yet**
 
+## Example 5
+
+
+> [!INFO] Problem 5
+> $$
+> x[n] = \begin{cases}
+> 1 & 0\leq n\leq N-1  \\
+> 0 & \text{elsewhere}
+> \end{cases}
+> $$
+
+$$
+x[n] = \{\underbrace{\underset{\uparrow}1,1,1,\dots,1}_{0 \text{ to } N-1}\}
+$$
+
+$$
+\begin{align*}
+x[n]&=u[n]-u[n-N] \\
+X(z)&= Z\{u[n]\}- Z\{u[n-N]\} \\
+&= Z\{u[n]\}- z^{-N}Z\{u[n]\} \\
+&=Z\{u[n]\}(1-z^{-N})
+\end{align*}
+$$
+
+> [!WARNING] 
+> I get the feeling that the reference is incomplete for this one, so I'm guessing that **this is not the final answer yet**
+
 ## Example 6 - Scaling in the Z-Domain
 
 
@@ -387,6 +414,28 @@ $$
 > x[n] = na^{n}u[n]
 > $$
 
+$$
+\begin{align*}
+x_{1}[n] &= a^nu[n] \\
+X_{1}(z) &= \frac{1}{1-az^{-1}}, &|z|>|a|
+\end{align*}
+$$
+
+$$
+\begin{align*}
+X(z) &= (-z) \frac{d}{dz}\{X_{1}(z)\} \\
+&=(-z) \frac{d}{dz}\left\{  \frac{1}{1-az^{-1}}  \right\} \\
+&= -z \frac{0-(1)(0+az^{-2})}{(1-az^{-1})^2} \\
+&= -z \frac{-az^{-2}}{(1-az^{-1})^2}, &|z|>|a| \\
+\end{align*}
+$$
+
+$$
+\boxed{
+X(z) = \frac{az^{-1}}{(1-az^{-1})^2}\text{, }|z|>|a|
+}
+$$
+
 ## Example not in the slides 1 - Time Shifting
 
 > [!INFO] Problem
@@ -418,10 +467,50 @@ $$
 ## Example not in the slides 2 - Time Reversal
 
 
-> [!INFO] Problem
+> [!INFO] Problem a
 > $$
 > x[n] = u[-n]
 > $$
+
+$$
+\begin{align*}
+x_{1}[n] &= u[n] \\
+X_{1}(z) &= \frac{1}{1-z^{-1}}, &|z|>1
+\end{align*}
+$$
+
+$$
+\begin{align*}
+X(z) &= X_{1}(z^{-1}) \\
+&= \frac{1}{1-(z^{-1})^{-1}}
+\end{align*}
+$$
+
+$$
+\boxed{
+X(z)= \frac{1}{1-z}\text{, } |z|>1 
+}
+$$
+
+> [!INFO] Problem b
+> $$
+> x[n] = \left( \frac{1}{2} \right)^n u[-n]
+> $$
+
+$$
+\begin{align*}
+x_{1}[n] &= \left( \frac{1}{2} \right)^n u[-n] \\
+&= 2^nu[n] \\
+X_{1}(z) &= \frac{1}{1-2z^{-1}}, &|z|>2 \\
+X(z) &= X_{1}(z^{-1})
+\end{align*}
+$$
+
+$$
+\boxed{
+X(z) = \frac{1}{1-2z}\text{, }|z|< \frac{1}{2}
+}
+$$
 
 ## Example not in the slides 2 - Convolution of Two Sequences
 
@@ -433,3 +522,23 @@ $$
 > x_{2}[n] &= \{\underset{\uparrow}1,1,1,1,1,1\}
 > \end{align*}
 > $$
+
+$$
+\begin{align*}
+X_{1}(z)&=1+2z^{-1}+z^{-2} \\
+X_{2}(z)&=1+z^{-1}+z^{-2}+z^{-3}+z^{-4}+z^{-5}\\
+X(z)&=X_{1}(z)X_{2}(z) \\
+&=(1+2z^{-1}+z^{-2})(1+z^{-1}+z^{-2}+z^{-3}+z^{-4}+z^{-5})
+\end{align*}
+$$
+
+Perform convolution using any preferred method
+
+$$
+\boxed{
+\begin{align}
+X(z) &= 1+3z^{-1}+4z^{-2}+4z^{-3}+4z^{-4}+4z^{-5}+3z^{-6}+z^{-7} \\ \\
+x[n] &= \{\underset{\uparrow}1,3,4,4,4,4,3,1\}
+\end{align}
+}
+$$
