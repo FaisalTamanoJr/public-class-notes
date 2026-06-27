@@ -341,6 +341,142 @@ Y^+(z) &= \frac{3}{5} \left\{ z^{-1}Y^+(z)+y[-1] \right\} - \frac{2}{25} \left\{
 \end{align*}
 $$
 
+### 5.1. Impulse Response
+
+$h[n]$:
+
+$$
+\begin{align*}
+\text{Input}&: x[n] = \delta[n] \\
+\text{Initial conditions}&: y[-1] = y[-2] = 0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\left( 1-\frac{3}{5}z^{-1}+\frac{2}{25}z^{-2}\right)Y^+(z) &= \left( z^{-1}+\frac{1}{2}z^{-2}  \right)X^{+}(z) \\
+
+H(z) &= \frac{Y^+(z)}{X^+(z)} = \frac{z^{-1}+\frac{1}{2}z^{-2}}{1-\frac{3}{5}z^{-1}+\frac{2}{25}z^{-2}}
+\end{align*}
+$$
+
+Perform the following long division:
+
+$$
+\frac{2}{25}z^{-2} - \frac{3}{5} z^{-1} + 1 \overline{\Big)\frac{1}{2}z^{-2}+z^{-1}}
+
+$$
+
+Resulting in $\frac{19}{4}z^{-1}-\frac{25}{4}$
+
+$$
+H(z) = \frac{25}{4} + \frac{
+\displaystyle \frac{19}{4}z^{-1}-\frac{25}{4}
+}{
+\displaystyle 1 - \frac{3}{5}z^{-1}+\frac{2}{25}z^{-2}
+}
+$$
+
+Consider:
+
+$$
+\begin{align*}
+H_{1}(z) &= \frac{
+\displaystyle \frac{19}{4}z^{-1}-\frac{25}{4}
+}{
+\displaystyle 1 - \frac{3}{5}z^{-1}+\frac{2}{25}z^{-2}
+} \cdot \frac{z^2}{z^2} \\
+\frac{H_{1}(z)}{z} &= \frac{\frac{19}{4}-\frac{25}{4}z}{\left( z-\frac{1}{5} \right)\left( z-\frac{2}{5} \right)}= \frac{A_{1}}{z-\frac{1}{5}}+\frac{A_{2}}{z-\frac{2}{5}} \\
+A_{1}&= \frac{\frac{19}{4}-\frac{25}{4}z}{z-\frac{2}{5}}\Big|_{z=\frac{1}{5}} =-\frac{35}{2} \\
+A_{2} &= \frac{\frac{19}{4}-\frac{25}{4}z}{z-\frac{1}{5}}\Big|_{z=\frac{2}{5}}=\frac{45}{4}\\
+H_{1}(z)&=-\frac{35}{2} \frac{1}{1-\frac{1}{5}z^{_{-1}}} + \frac{45}{4} \frac{1}{1-\frac{2}{5}z^{-1}}\\
+H(z)&= \frac{25}{4}- \frac{35}{2} \frac{1}{1-\frac{1}{5}z^{-1}}+\frac{45}{4} \frac{1}{1-\frac{2}{5}z^{-1}}
+\end{align*} 
+$$
+$$
+\boxed{
+h[n] = \frac{25}{4} \delta[n] - \frac{35}{2}\left( \frac{1}{5} \right)^n u[n] + \frac{45}{4}\left( \frac{2}{5} \right)^n u[n]
+}
+$$
+### 5.2. Zero-State Step Response
+
+$$
+\begin{align*}
+x[n] &= u[n] \\
+\text{zero state: }y[-1] &= y[-2] =0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x^+(z) &= z^+\{u[n]\} \\
+&= \frac{1}{1-z^{-1}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+Y^+(z)\left( 1-\frac{3}{5}z^{-1}+\frac{2}{25}z^{-2} \right) &=\left( \frac{1}{2} z^{-2} + z^{-1} \right)X^+(z) \\
+
+Y^{+}(z)\left( 1-\frac{3}{5}z^{-1} + \frac{2}{25}z^{-2} \right) &= \left( \frac{1}{2}z^{-2}+z^{-1} \right)\left( \frac{1}{1-z^{-1}} \right) \\
+Y^+(z) &= \frac{\frac{1}{2}z^{-2}+z^{-1}}{\left( 1-\frac{3}{5}z^{-1} + \frac{2}{25} z^{-2} \right)(1-z^{-1})} \cdot \frac{z^3}{z^3} \\
+&= \frac{\frac{1}{2}z+z^2}{\left( z^2-\frac{3}{5}z+\frac{2}{25} \right)(z-1)}\\
+\frac{Y^+(z)}{z} &= \frac{z+\frac{1}{2}}{\left( z-\frac{1}{5} \right)\left( z-\frac{2}{5} \right)(z-1)} \\
+&= \frac{A_{1}}{z-\frac{1}{5}} + \frac{A_{2}}{z-\frac{2}{5}} + \frac{A_{3}}{z-1}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+A_{1} &= \frac{z+\frac{1}{2}}{\left( z-\frac{2}{5} \right)(z-1)}\Big|_{z=\frac{1}{5}} = \frac{35}{8} \\
+
+A_{2} &= \frac{z+\frac{1}{2}}{\left( z-\frac{1}{5} \right)(z-1)}\Big|_{z=\frac{2}{5}} = -\frac{15}{2} \\
+
+A_{3} &= \frac{z+\frac{1}{2}}{\left( z-\frac{1}{5} \right)\left( z-\frac{2}{5} \right)}\big|_{z=1}=\frac{25}{8}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+Y^+(z) &= \frac{35}{8} \frac{1}{1-\frac{1}{5}z^{-1}} - \frac{15}{2} \frac{1}{1-\frac{2}{5}z^{-1}} + \frac{25}{8} \frac{1}{1-z^{-1}}
+\end{align*}
+$$
+$$
+\boxed {
+y[n] = \frac{35}{8}\left( \frac{1}{5} \right)^n u[n] - \frac{15}{2} \left( \frac{2}{5} \right)^n u[n] + \frac{25}{8} u[n]
+}
+$$
+
+### 5.3. Zero-State Step Response
+
+$$
+\begin{array}{ccc}
+x[n] = u[n] \quad y[-1] = 1 \quad y[-2] = 2
+\end{array}
+$$
+$$
+\begin{align*}
+Y^+(z)\left( 1-\frac{3}{5}z^{-1} + \frac{2}{25}z^{-2}\right) &= \frac{3}{5}(1) - \frac{2}{25} (1)z^{-1} - \frac{2}{25} (2) + \left( \frac{1}{2}z^{-2} + z^-1 \right)\left( \frac{1}{1-z^{-1}} \right) \\
+
+&= \frac{\left( \frac{11}{25}-\frac{2}{25}z^{-1} \right)(1-z^{-1})+\frac{1}{2}z^{-2}+z^{-1}}{(1-z^{-1})} \\
+Y^+(z) &= \frac{\frac{11}{25}+\frac{34}{25}z^{-1}+\frac{29}{50}z^{-2}}{\left( 1-\frac{3}{5}z^{-1}+\frac{2}{25}z^{-2} \right)(1-z^{-1})} \cdot \frac{z^3}{z^3}\\
+
+&=\frac{\frac{11}{25}z^3+\frac{34}{25}z^2+\frac{29}{50}z}{\left( z-\frac{1}{5} \right)\left( z-\frac{2}{5} \right)(z-1)}\\
+\frac{Y^+(z)}{z} &= \frac{A_{1}}{z-\frac{1}{5}}+ \frac{A_{2}}{z-\frac{2}{5}}+ \frac{A_{3}}{z-1}
+\end{align*}
+$$
+
+$$
+\begin{array}{ccc}
+A_{1}=\frac{1087}{200} \quad A_{2}=-\frac{1493}{150} \quad A_{3} = \frac{119}{24}
+\end{array}
+$$
+
+$$
+\boxed{
+y[n] = \left[ \frac{1087}{200}\left( \frac{1}{5} \right)^n - \frac{1493}{150} \left( \frac{2}{5} \right)^n + \frac{119}{24} \right] u[n]
+}
+$$
 ## Example not in the slides - Time Shifting Property
 
 
