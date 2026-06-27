@@ -3,7 +3,7 @@ title: Inverse Z-Transform
 draft: false
 tags:
   - DSIGPRO
-date: 2026-06-18, 22:00
+date: 2026-06-22, 22:00
 ---
 
 ## Sources
