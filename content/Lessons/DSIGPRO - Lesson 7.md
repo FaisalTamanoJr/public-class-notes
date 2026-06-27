@@ -333,6 +333,14 @@ $$
 
 Take the one-sided $z$-transform of both sides
 
+$$
+\begin{align*}
+Y^+(z) &= \frac{3}{5} \left\{ z^{-1}Y^+(z)+y[-1] \right\} - \frac{2}{25} \left\{ z^{-2}Y^+(z)+y[-1]z^{-1}+y[-2] \right\} + \{z^{-1}X^+(z)+x[-1]\} + \frac{1}{2} \{z^{-2}X^+(z)+x[-1]z^{-1}+x[-2]\} \\
+
+\left( 1-\frac{3}{5}z^{-1}+\frac{2}{25}z^{-2} \right)Y^+(z) &= \frac{3}{5}y[-1]-\frac{2}{25}y[-1]z^{-1}-\frac{2}{25}y[-2]+\left( z^{-1}+\frac{1}{2}z^{-2} \right)x^+(z)+x[-1]+\frac{1}{2}x[-1]z^{-1}+\frac{1}{2}x[-2]
+\end{align*}
+$$
+
 ## Example not in the slides - Time Shifting Property
 
 
