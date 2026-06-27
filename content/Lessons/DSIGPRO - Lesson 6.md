@@ -67,6 +67,7 @@ z^M &= a^M &\text{has M roots} \\
 z_{k} &= ae^{\frac{2\pi k}{M},} &k=0,1,2\dots, M-1
 \end{align*}
 $$
+
 $$
 \begin{align*}
 \text{if }M&=8  \\
@@ -74,7 +75,9 @@ z_{k} &= ae^{\frac{2\pi k}{M},} \\
 &= ae^{\frac{2\pi k}{8},} \\
 z_{k} &= ae^{j \frac{\pi}{4}k}
 \end{align*}
-$$Therefore, each poles and zeros are $45^\circ$ or $\frac{\pi}{4}$ away from other poles and zeros
+$$
+
+Therefore, each poles and zeros are $45^\circ$ or $\frac{\pi}{4}$ away from other poles and zeros
 
 > [!TIP]- Tip 2. Summation of $A^n$
 > $$
