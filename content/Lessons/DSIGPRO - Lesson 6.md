@@ -52,18 +52,35 @@ $$
 \begin{align*}
 X(z) &= \sum^{M-1}_{n=0}a^nz^{-n} \\
 &= \sum^N_{{n=1}} (az^{-1})^n \\
-&= \frac{1-(az^{-1})^M}{1-az^{-1}}
+&= \frac{1-(az^{-1})^M}{1-az^{-1}} \\
+&= \frac{1-(az^{-1})^M}{1-az^{-1}} \cdot \frac{z^{M}}{z^M} \\
+&= \frac{z^M - a^M}{z^M - az^{M-1}} = \frac{(z-a)(z-z_{1})(z-z_{2})\dots(z-z_{M-1})}{(z-a)z^{M-1}} \\
+X(z)&= \frac{(z-z_{1})(z-z_{2})\dots (z-z_{M-1})}{z^{M-1}} \\
 \end{align*}
 $$
 
+Without pole-zero cancellation
 
-> [!WARNING] 
-> I get the feeling that the reference is incomplete for this one, so I'm guessing that **this is not the final answer yet**
+$$
+\begin{align*}
+z^M &= a^M &\text{has M roots} \\
+z_{k} &= ae^{\frac{2\pi k}{M},} &k=0,1,2\dots, M-1
+\end{align*}
+$$
+$$
+\begin{align*}
+\text{if }M&=8  \\
+z_{k} &= ae^{\frac{2\pi k}{M},} \\
+&= ae^{\frac{2\pi k}{8},} \\
+z_{k} &= ae^{j \frac{\pi}{4}k}
+\end{align*}
+$$Therefore, each poles and zeros are $45^\circ$ or $\frac{\pi}{4}$ away from other poles and zeros
 
 > [!TIP]- Tip 2. Summation of $A^n$
 > $$
 > \sum^N_{n=1}A^n=\frac{1-A^{N+1}}{1-A}\text{, }|A|<1
 > $$
+
 
 ## Example 4 - Transfer Function
 
