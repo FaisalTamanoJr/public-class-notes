@@ -187,8 +187,8 @@ X(z) &= \sum^{-1}_{n=-\infty }-\alpha^nz^{-n} \\
 &= -\sum^{-1}_{n=-\infty }\alpha^nz^{-n} \\
 &= -\sum^{\infty}_{n=1 }\alpha^{-n}z^{n} \\
 &=-\frac{\alpha^{-1}z}{1-\alpha^{-1}z} & |a^{-1}z| < 1 \\
-&=-\frac{1}{\alpha^{-1}z-1} & |z| < |\alpha| \\
-&=\frac{1}{1-\alpha^{-1}z} & |z| < |\alpha|
+&=-\frac{1}{\alpha z^{-1}-1} & |z| < |\alpha| \\
+&=\frac{1}{1-\alpha z^{-1}} & |z| < |\alpha|
 \end{align*}
 $$
 
