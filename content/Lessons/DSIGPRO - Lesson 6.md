@@ -64,15 +64,15 @@ Without pole-zero cancellation
 $$
 \begin{align*}
 z^M &= a^M &\text{has M roots} \\
-z_{k} &= ae^{\frac{2\pi k}{M},} &k=0,1,2\dots, M-1
+z_{k} &= ae^{j\frac{2\pi k}{M},} &k=0,1,2\dots, M-1
 \end{align*}
 $$
 
 $$
 \begin{align*}
 \text{if }M&=8  \\
-z_{k} &= ae^{\frac{2\pi k}{M},} \\
-&= ae^{\frac{2\pi k}{8},} \\
+z_{k} &= ae^{j\frac{2\pi k}{M},} \\
+&= ae^{j\frac{2\pi k}{8},} \\
 z_{k} &= ae^{j \frac{\pi}{4}k}
 \end{align*}
 $$
