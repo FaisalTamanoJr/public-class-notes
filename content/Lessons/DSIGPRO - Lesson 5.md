@@ -493,7 +493,7 @@ $$
 
 $$
 \boxed{
-X(z)= \frac{1}{1-z}\text{, } |z|>1 
+X(z)= \frac{1}{1-z}\text{, } |z|<1 
 }
 $$
 
