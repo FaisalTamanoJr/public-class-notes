@@ -351,12 +351,17 @@ $$
 x[n]&=u[n]-u[n-N] \\
 X(z)&= Z\{u[n]\}- Z\{u[n-N]\} \\
 &= Z\{u[n]\}- z^{-N}Z\{u[n]\} \\
-&=Z\{u[n]\}(1-z^{-N})
+&=Z\{u[n]\}(1-z^{-N}), &\frac{1}{1-z^{-1}}\\
 \end{align*}
 $$
 
-> [!WARNING] 
-> I get the feeling that the reference is incomplete for this one, so I'm guessing that **this is not the final answer yet**
+$$
+\boxed{
+\begin{align*}
+X(z) &= \frac{1-z^{-N}}{1-z^{-1}}, &|z| > 1
+\end{align*}
+}
+$$
 
 ## Example 6 - Scaling in the Z-Domain
 
