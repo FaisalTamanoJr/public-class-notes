@@ -100,11 +100,20 @@ $$
 > $$
 
 $$
-\boxed{X(\omega) = -2e^{j2\omega}+e^{j\omega}+e^{-j\omega}+e^{-j2\omega}}
+
+\begin{align*}
+X(\omega) &= -2e^{j2\omega}+e^{j\omega}+e^{-j\omega}+2e^{-j2\omega} \\
+&=  -2 (e^{j2\omega}-e^{-j2\omega})+e^{j\omega}+e^{-j\omega}\\
+&=  (j2)(-2) \left(\frac{e^{j2\omega}-e^{-j2\omega}}{j2}\right) + 2\left(\frac{e^{j\omega}+e^{-j\omega}}{2}\right) \\
+&=-j4\sin(2\omega)+2\cos \omega
+\end{align*}
+$$
+
+$$
+\boxed{X(\omega)=2\cos \omega-j4\sin(2\omega)}
 $$
 
 ## Example 10
-
 
 > [!INFO] Problem
 > Determine the magnitude spectrum and phase spectrum of the following signal:
@@ -117,7 +126,97 @@ $$
 >
 > Find the DTFT and sketch both magnitude spectrum $|X(\omega)|$ and phase spectrum $\angle X(\omega)$
 
-TODO
+$$
+\begin{align*}
+X(\omega) &= \frac{1}{1-\alpha e^{-j\omega}} \\
+&= \frac{1}{1-\alpha(\cos \omega-j\sin \omega)} \\
+&= \frac{1}{(1-\alpha \cos \omega)+j\alpha \sin \omega}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+|z|&=|a+jb| \\
+&=\sqrt{ a^2+b^2 }
+\end{align*}
+$$
+
+
+> [!TIP]- Tip 10. $j^2$
+> $$
+> \begin{align*}
+> j&=\sqrt{ -1 }\\
+> j^2&=-1
+> \end{align*}
+> $$
+
+
+$$
+\begin{align*}
+z &=\frac{1}{a+jb}\cdot \frac{a-jb}{a-jb} \\
+z &= \frac{a-jb}{a^2-j^2b^2}=\frac{a-jb}{a^2+b^2} \\
+|z| &= \frac{1}{a^2+b^2} |a-jb| \\
+&= \frac{1}{a^2+b^2}\sqrt{ a^2+b^2 } \\
+|z| &= \frac{1}{\sqrt{ a^2+b^2 }}
+\end{align*}
+$$
+
+Magnitude:
+
+$$
+|X|(\omega)| = \frac{1}{\sqrt{ (1-\alpha \cos \omega)^2 + (\alpha \sin \omega)^2}}
+$$
+
+$$
+\begin{align*}
+|X(\omega)| &= \frac{1}{\sqrt{ 1-2\alpha \cos \omega+\alpha^2 }} \\
+\text{at }\omega&=0: \\
+|X(\omega)|&= \frac{1}{\sqrt{ 1-2\alpha+\alpha^2 }}=\frac{1}{\sqrt{ (1-\alpha)^2 }}=\frac{1}{1-\alpha}\\
+\text{at }\omega&=\pi: \\
+|X(\omega)|&= \frac{1}{\sqrt{ 1+2\alpha+\alpha^2 }}=\frac{1}{/\sqrt{ (1+\alpha) }}=\frac{1}{1+\alpha}
+\end{align*}
+$$
+
+Phase:
+
+$$
+\begin{align*}
+z &= \frac{1}{\alpha+jb}\\
+\angle z &= \tan^{-1}\left( \frac{b}{a} \right) \\ 
+X(\omega)&= \frac{1}{(1-\alpha \cos \omega)+j\alpha \sin \omega}  \\
+\phi(\omega) &= -\tan^{-1}\left( \frac{\alpha \sin \omega}{1-\alpha \cos \omega} \right)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\omega=0 \\
+\phi(\omega)=0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\omega=\pi \\
+\phi(\omega)=0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\omega &= \frac{\pi}{2} \\
+\phi(u) &= \tan^{-1}\left( \frac{\alpha-1}{1-\alpha(0)} \right)=\tan^{-1}(\alpha)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\omega&=\frac{3\pi}{2} \\
+\phi(\omega) &= -\tan^{-1}\left( \frac{\alpha(-1)}{1-\alpha} \right)\\
+&=-\tan^{-1}(-\alpha)\\
+\phi(\omega)&=\boxed{\tan^{-1}(\alpha)}
+\end{align*}
+$$
 
 ## Example 11
 
@@ -134,4 +233,31 @@ TODO
 > - Sketch the Energy Density Spectrum
 > - Identify frequencies in which majority of the signal is concentrated
 
-TODO
+$$
+\begin{align*}
+X(\omega) &= \frac{1}{(1-\alpha\cos \omega)+j\alpha \sin \omega} \\
+|X(\omega)| &= \frac{1}{\sqrt{ (1-\alpha \cos \omega)^2+a^2\sin^2\omega }} \\
+|X(\omega)|^2 &= \frac{1}{1-2 \alpha\cos \omega + \alpha^2} \\
+\end{align*}
+$$
+
+$$
+\begin{align*}
+e.g. x[n] &=(0.5)^nu[n] \\
+\alpha &=0.5 \\
+|X(\omega)|^2 &= \frac{1}{1-2 (0.5)\cos \omega + 0.25} \\
+\end{align*}
+$$
+
+$$
+\begin{align*}
+S_{xx}(\omega)  &= |X(\omega)|^2 = \frac{1}{1-\cos \omega+0.25} \\
+\text{At }w=0\\
+S_{xx}(0) &=4 \\
+\text{At }w=\frac{\pi}{2}\\
+S_{xx}\left( \frac{\pi}{2} \right) &=0.8 \\
+\text{At }w=\pi\\
+Sxx(\pi) &= 0.44\bar{4}
+\end{align*}
+$$
+
